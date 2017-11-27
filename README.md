@@ -10,8 +10,8 @@ A list of conferences connected with data worldwide.
 
 ## Connect with mates
 
-Hey, lets gather in this [Slack](http://corpglory.com/join)
+Hey, lets gather in [Slack](http://corpglory.com/join)
 
 ## Your stuff on this data
 
-Pleaase add link to your data-products of any kind based on this list. Maybe some infographics? 
+Ideas of data-products based on this list? Maybe some infographics? Add links here.
