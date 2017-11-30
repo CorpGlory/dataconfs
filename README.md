@@ -8,16 +8,19 @@ A list of conferences connected with data worldwide.
 ## Top 10 next upcoming
 
 <table>
-<tbody><tr>
-<td>Name and Link</td>
-<td>Location</td>
-<td>Date Begin</td>
-<td>Date End</td>
-<td>Description</td>
+<thead>
+  <tr>
+    <td><b>Name and Link</b></td>
+<td><b>Location</b></td>
+<td><b>Date Begin</b></td>
+<td><b>Date End</b></td>
+<td><b>Description</b></td>
 </tr>
+  </thead>
+  <tbody>
 <tr>
   <td><a href="https://conferences.oreilly.com/strata/strata-sg">Strata data conf</a></td>
-<td>Singapore, </td>
+<td>Singapore </td>
 <td>4 December 2017</td>
 <td>7 December 2017</td>
 <td>Data is driving business transformation. Turn algorithms into advantage at Strata. New: Strata Business Summit for data-driven business.</td>
