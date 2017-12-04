@@ -5,7 +5,7 @@ A list of conferences connected with data worldwide.
 
 [**Google Docs Excel Version**](https://docs.google.com/spreadsheets/d/11IjAII5_nvsUPc_pJKhRgfBcFY0PyswiTqyr4hE_JSg/edit#gid=0)
 
-## Top 10 next upcoming
+## Next 10 upcoming
 
 <table>
   <thead>
