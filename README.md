@@ -113,6 +113,19 @@ A list of conferences connected with data worldwide.
     </tr>
     <tr>
       <td>
+        <a href="https://www.appliedmldays.org"> 
+          Applied Machine Learning Days
+        </a>
+      </td>
+      <td>Lausanne, Switzerland</td>
+      <td>28 January 2018</td>
+      <td>30 January 2018</td>
+      <td>
+        Four days of talks and tutorials on Machine Learning and Artificial Intelligence with speakers from around the world.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://coriniumintelligence.com/chiefdataofficerseurope/"> Сhief data and analytics officer</a>
       </td>
       <td>London, UK</td>
@@ -141,20 +154,6 @@ A list of conferences connected with data worldwide.
         Preview product roadmaps, plan for the future, and build new skills in hands-on technical training sessions.
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="http://grafanacon.org"> Grafana conf </a>
-      </td>
-      <td>Amsterdam, Netherlands</td>
-      <td>1 March 2018</td>
-      <td>2 March 2018</td>
-      <td>
-        GrafanaCon is a two-day event with talks centered around Grafana and the surrounding ecosystem. 
-        In addition to the latest features and functionality of Grafana, you can expect to see and hear 
-        from members of the monitoring community like Graphite, Prometheus, InfluxData, Elasticsearch 
-        Kubernetes, and more.
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -173,6 +172,19 @@ A list of conferences connected with data worldwide.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a href="https://www.appliedmldays.org"> 
+          Applied Machine Learning Days
+        </a>
+      </td>
+      <td>Lausanne, Switzerland</td>
+      <td>28 January 2018</td>
+      <td>30 January 2018</td>
+      <td>
+        Four days of talks and tutorials on Machine Learning and Artificial Intelligence with speakers from around the world.
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="http://adeptevents.nl/event/predictive-advanced-analytics?lang=en,Utrecht"> 
