@@ -22,7 +22,7 @@ A list of conferences connected with data worldwide.
       <td>
         <a href="https://conferences.oreilly.com/strata/strata-sg">Strata data conf</a>
       </td>
-      <td>Singapore </td>
+      <td>Singapore</td>
       <td>4 December 2017</td>
       <td>7 December 2017</td>
       <td>
@@ -41,6 +41,23 @@ A list of conferences connected with data worldwide.
         Practice using data visualization methodology with a real data set to uncover business insights. 
         Describe the business value in visualizing data – new methods and approaches. 
         Infographics and Data Visualization Fundamentals.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="http://adeptevents.nl/event/predictive-advanced-analytics?lang=en,Utrecht"> 
+          Predictive & advanced analytics
+        </a>
+      </td>
+      <td>Utrecht, Netherlands</td>
+      <td>11 December 2017</td>
+      <td>12 December 2017</td>
+      <td>
+        This new 2-day seminar looks at the need to capture new data sources to add to what we already know and 
+        use machine learning to automatically discover, profile and catalog what is in these data sources. 
+        It then looks at how machine learning and advanced analytical techniques such as text analyses, 
+        sentiment analysis, graph and streaming analytics can be used at scale on Big data to provide new 
+        insight that helps foster growth, reduce costs and improve effectiveness for competitive advantage.
       </td>
     </tr>
     <tr>
@@ -138,24 +155,72 @@ A list of conferences connected with data worldwide.
         Kubernetes, and more.
       </td>
     </tr>
+  </tbody>
+</table>
+
+[Full List CSV](https://github.com/CorpGlory/dataconfs/blob/master/list.csv)
+
+## Last added
+
+<table>
+  <thead>
+    <tr>
+      <td><b>Name and Link</b></td>
+      <td><b>Location</b></td>
+      <td><b>Date Begin</b></td>
+      <td><b>Date End</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>
-        <a href="https://conferences.oreilly.com/strata/strata-ca">Strata data conf</a>
+        <a href="http://adeptevents.nl/event/predictive-advanced-analytics?lang=en,Utrecht"> 
+          Predictive & advanced analytics
+        </a>
       </td>
-      <td>San Jose, USA</td>
-      <td>5 March 2018</td>
-      <td>8 March 2018</td>
+      <td>Utrecht, Netherlands</td>
+      <td>11 December 2017</td>
+      <td>12 December 2017</td>
       <td>
-        Every year thousands of top data scientists, analysts, engineers, and executives converge at 
-        Strata Data Conference—the largest gathering of its kind. It’s where technologists and decision makers 
-        turn data and algorithms into business advantage. Data and AI technology drive everything—from competitive
-        strategy and new lines of business, to supply and logistics, to customer management and marketing automation.
+        This new 2-day seminar looks at the need to capture new data sources to add to what we already know and 
+        use machine learning to automatically discover, profile and catalog what is in these data sources. 
+        It then looks at how machine learning and advanced analytical techniques such as text analyses, 
+        sentiment analysis, graph and streaming analytics can be used at scale on Big data to provide new 
+        insight that helps foster growth, reduce costs and improve effectiveness for competitive advantage.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.fruct.org/amict18"> 
+          FRUCT Conference: Workshops on Advances in Methods of Information and Communication Technology
+        </a>
+      </td>
+      <td>Petrozavodsk, Russia</td>
+      <td>11 April 2018</td>
+      <td>13 April 2018</td>
+      <td>
+        This year AMICT workshop will be held within the scope of the 22nd Conference of the Open Innovations Association FRUCT. The topics of interest include the following subject areas: • Information technology, • Network communication, • Information systems, • Theoretical and applied computer science, • Algorithms and Modeling, • Teaching methodology in Computer Science.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="http://event.savagemarketing.io"> 
+          Savage Marketing 2018
+        </a>
+      </td>
+      <td>Amsterdam, Netherlands</td>
+      <td>13 June 2018</td>
+      <td>14 June 2018</td>
+      <td>
+        The Future Of AI In Marketing
       </td>
     </tr>
   </tbody>
 </table>
 
-[Full List CSV](https://github.com/CorpGlory/dataconfs/blob/master/list.csv)
+
+Tip: click `watch` button to get notifications about new confs.
 
 
 ## How to contribute
