@@ -174,6 +174,19 @@ A list of conferences connected with data worldwide.
   <tbody>
     <tr>
       <td>
+        <a href="http://www.icegov.org"> 
+          ICEGOV 2018
+        </a>
+      </td>
+      <td>Galway, Ireland</td>
+      <td>4 April 2018</td>
+      <td>6 April 2018</td>
+      <td>
+        The conference focuses on the use of technology to transform the working of government and its relationships with citizens, businesses, and other non-state actors in order to improve public governance and its contribution to public policy and development (EGOV). It also promotes the interaction and cooperation between universities, research centres, governments, industries, and non-governmental organizations needed to develop the EGOV community. It is supported by a rich program of keynote lectures, plenary sessions, papers presentations within the thematic sessions, invited sessions, and networking sessions.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.appliedmldays.org"> 
           Applied Machine Learning Days
         </a>
