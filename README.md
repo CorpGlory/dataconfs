@@ -256,6 +256,7 @@ Tip: click `watch` button to get notifications about new confs.
 ## Connect with folks
 
 Hey, lets gather in [Slack](http://corpglory.com/join)
+
 Our Twitter: https://twitter.com/CorpGlory
 
 ## Your stuff on this data
