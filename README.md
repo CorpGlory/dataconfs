@@ -251,7 +251,8 @@ Tip: click `watch` button to get notifications about new confs.
 ## How to contribute
 
 * Make a pull request here to the list
-* OR add a comment to the [doc](https://docs.google.com/spreadsheets/d/11IjAII5_nvsUPc_pJKhRgfBcFY0PyswiTqyr4hE_JSg/edit#gid=0)
+* Add a comment to the [doc](https://docs.google.com/spreadsheets/d/11IjAII5_nvsUPc_pJKhRgfBcFY0PyswiTqyr4hE_JSg/edit#gid=0)
+* Leave a message on [Gitter](https://gitter.im/dataconfs/Lobby)
 
 ## Connect with folks
 
