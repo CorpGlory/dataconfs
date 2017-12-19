@@ -19,141 +19,76 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="https://conferences.oreilly.com/strata/strata-sg">Strata data conf</a>
-      </td>
-      <td>Singapore</td>
-      <td>4 December 2017</td>
-      <td>7 December 2017</td>
-      <td>
-        Data is driving business transformation. Turn algorithms into advantage at Strata. 
-      </td>
+      <td> <a href="https://fleming.events/advanced-analytics-forum/"> Advanced analytics forum </a> </td>
+      <td> Berlin, Germany </td>
+      <td> 25 January 2018 </td>
+      <td> 26 January 2018 </td>
+      <td> Improve your data driven decision making from a holistic perspective. Support decision making with actionable intelligence.Improve your data: Determine the optimum operating model driven decision making from a holistic perspective. Assemble your analytics dream team.           </td>
     </tr>
     <tr>
-      <td>
-        <a href="http://conferences.unicom.co.uk/datavisualisation/brussels/"> Data visualization summit</a>
-      </td>
-      <td>Brussels, Belgium</td>
-      <td>6 December 2017</td>
-      <td>6 December 2017</td>
-      <td>
-        Identify different types of data visualizations and how to use them effectively. 
-        Practice using data visualization methodology with a real data set to uncover business insights. 
-        Describe the business value in visualizing data – new methods and approaches. 
-        Infographics and Data Visualization Fundamentals.
-      </td>
+      <td> <a href="http://www.ivapp.visigrapp.org/Home.aspx"> International conference on information visualization theory and application </a> </td>
+      <td> Funchal, Portugal </td>
+      <td> 27 January 2018 </td>
+      <td> 29 January 2018 </td>
+      <td> The International Conference on Information Visualization Theory and Applications aims at becoming a major point of contact between researchers, engineers and practitioners in Information Visualization. The conference will be structured along several topics related to Information Visualization. </td>
     </tr>
     <tr>
-      <td>
-        <a href="http://adeptevents.nl/event/predictive-advanced-analytics?lang=en,Utrecht"> 
-          Predictive & advanced analytics
-        </a>
-      </td>
-      <td>Utrecht, Netherlands</td>
-      <td>11 December 2017</td>
-      <td>12 December 2017</td>
-      <td>
-        This new 2-day seminar looks at the need to capture new data sources to add to what we already know and 
-        use machine learning to automatically discover, profile and catalog what is in these data sources. 
-        It then looks at how machine learning and advanced analytical techniques such as text analyses, 
-        sentiment analysis, graph and streaming analytics can be used at scale on Big data to provide new 
-        insight that helps foster growth, reduce costs and improve effectiveness for competitive advantage.
-      </td>
+      <td> <a href="https://www.appliedmldays.org"> Applied Machine Learning Days </a> </td>
+      <td> Lausanne, Switzerland </td>
+      <td> 28 January 2018 </td>
+      <td> 30 January 2018 </td>
+      <td> Four days of talks and tutorials on Machine Learning and Artificial Intelligence with speakers from around the world. </td>
     </tr>
     <tr>
-      <td>
-        <a href="http://conferences.unicom.co.uk/datavisualisation/manchester/"> Data visualization summit </a>
-      </td>
-      <td>Manchester, UK</td>
-      <td>13 December 2017</td>
-      <td>13 December 2017</td>
-      <td>
-        This event will bring together industry professionals and thought leaders from the field of 
-        Data Visualization. 
-        It will help you in understanding and implementing data visualization in your business / for your client. 
-        It will also provide an excellent opportunity to interact and network with some of the top minds.
-      </td>
+      <td> <a href="http://emtechasia.com"> EmTech Asia </a> </td>
+      <td> Singapore </td>
+      <td> 30 January 2018 </td>
+      <td> 31 January 2018 </td>
+      <td> Where Technology, Business and Innovation Collide. EmTech Asia is not an average tech conference. It is a curation of the world’s leading tech executives, scientists and investors. </td>
     </tr>
     <tr>
-      <td>
-        <a href="http://www.iot-forum.ru">IoT forum</a>
-      </td>
-      <td>St.Petersburg, Russia</td>
-      <td>14 December 2017</td>
-      <td>14 December 2017</td>
-      <td> </td>
+      <td> <a href="https://theaicongress.com/"> The AI Congress London </a> </td>
+      <td> London, UK </td>
+      <td> 30 January 2018 </td>
+      <td> 31 January 2018 </td>
+      <td> The AI Congress is among the machine learning and artificial intelligence conferences for experts, professionals, investors, and business executives.  In addition to holding talks on major advancements in artificial intelligence and machine learning including their development, and implementation, the key focus will be on how AI and ML are affecting businesses and a variety of industries such as retail, banking, accountancy, healthcare and energy to name a few. Other topics also included for discussion are big data, virtual agents, the blockchain, image recognition and deep learning. Attendees will also get a chance to network with professionals from the field of AI. </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://fleming.events/advanced-analytics-forum/">Advanced analytics forum</a>
-      </td>
-      <td>Berlin, Germany</td>
-      <td>25 January 2018</td>
-      <td>26 January 2018</td>
-      <td>
-        Improve your data driven decision making from a holistic perspective. 
-        Support decision making with actionable intelligence. Improve your data: Determine the optimum 
-        operating model driven decision making from a holistic perspective. Assemble your analytics dream team. 
-      </td>
+      <td> <a href="https://aaai.org/Conferences/AAAI-18/aaai18call/"> The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18) </a> </td>
+      <td> New Orleans, USA </td>
+      <td> 2 February 2018 </td>
+      <td> 7 February 2018 </td>
+      <td> This year AAAI-18 especially encourages submissions in the emerging area of effective collaboration between humans and AI systems and novel applications thereof. </td>
     </tr>
     <tr>
-      <td>
-        <a href="http://www.ivapp.visigrapp.org/Home.aspx"> 
-          International conference on information visualization theory and application
-        </a>
-      </td>
-      <td>Funchal, Portugal</td>
-      <td>27 January 2018</td>
-      <td>29 January 2018</td>
-      <td>
-        The International Conference on Information Visualization Theory and Applications aims at becoming 
-        a major point of contact between researchers, engineers and practitioners in Information Visualization. 
-        The conference will be structured along several topics related to Information Visualization.
-      </td>
+      <td> <a href="http://www.developerweek.com/"> DeveloperWeek 2018 </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 3 February 2018 </td>
+      <td> 8 February 2018 </td>
+      <td> DeveloperWeek features a number of events such as hackathon and javascript conference. It also hosts a conference on artificial intelligence.  The AI conference is a two-day event that features both technical and theoretical aspect of AI. Topics for discussion are machine learning, cognitive computing, audio/video recognition, risk and threat, tools and open source libraries. </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://www.appliedmldays.org"> 
-          Applied Machine Learning Days
-        </a>
-      </td>
-      <td>Lausanne, Switzerland</td>
-      <td>28 January 2018</td>
-      <td>30 January 2018</td>
-      <td>
-        Four days of talks and tutorials on Machine Learning and Artificial Intelligence with speakers from around the world.
-      </td>
+      <td> <a href="https://aibesummit.com"> AIBE summit </a> </td>
+      <td> London, UK </td>
+      <td> 4 February 2018 </td>
+      <td> 4 February 2018 </td>
+      <td> The Artificial Intelligence in Business &amp; Entrepreneurship (AIBE) Summit is Europe’s largest non-profit conference on artificial intelligence. </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://coriniumintelligence.com/chiefdataofficerseurope/"> Сhief data and analytics officer</a>
-      </td>
-      <td>London, UK</td>
-      <td>20 February 2018</td>
-      <td>22 February 2018</td>
-      <td>
-        Even more innovative and exclusive data analytics case studies, with real-life takeaways for 
-        your organisation. A greater choice in Discussion Group streams that will suit data analytics 
-        leaders across a wide spectrum of maturities, competencies and industries. 
-        An entire day dedicated to cutting through all the noise and hype, and hearing about the 
-        real-world applications of Artificial Intelligence, Machine Learning and Deep Learning. 
-      </td>
+      <td> <a href="https://appliedaisummit.iqpc.com/"> Applied AI Summit </a> </td>
+      <td> London, UK </td>
+      <td> 5 February 2018 </td>
+      <td> 7 February 2018 </td>
+      <td> Applied AI Summit provides a platform to experts and industry leaders to showcase the latest advancements made in the field of AI.  The summit will focus on AI demos from industries that have implemented AI strategies. The conference will discuss, among other things, how to expedite the process of integrating AI into businesses, what practices need to be followed and how to build proper tools and skill set for AI. Attendees will include industrialists and business executives. </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://www.elastic.co/elasticon/conf/2018/sf?homepage=true"> 
-          The Official Elasticsearch Conference
-        </a>
-      </td>
-      <td>Los Angeles, USA</td>
-      <td>27 February 2018</td>
-      <td>1 March 2018</td>
-      <td>
-        Elastic{ON} is for devs, architects, ops folks, analysts, and hybrids. Get inspired by  can`t-wait-to-try-that-myself
-        use case presentations and see how other teams are mapping their architectures. 
-        Preview product roadmaps, plan for the future, and build new skills in hands-on technical training sessions.
-      </td>
+      <td> <a href="http://aievolutionevent.com/"> AI Evolution </a> </td>
+      <td> New York, USA </td>
+      <td> 8 February 2018 </td>
+      <td> 8 February 2018 </td>
+      <td> AI Evolution brings together experts, developers, technologists, and business leaders.  The purpose of the AI Evolution is to transform artificial intelligence theories into practical AI systems and applications which can then be utilized by business executives to get more value from their enterprise. </td>
     </tr>
+    
   </tbody>
 </table>
 
@@ -173,74 +108,76 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="http://www.icegov.org"> 
-          ICEGOV 2018
-        </a>
-      </td>
-      <td>Galway, Ireland</td>
-      <td>4 April 2018</td>
-      <td>6 April 2018</td>
-      <td>
-        The conference focuses on the use of technology to transform the working of government and its relationships with citizens, businesses, and other non-state actors in order to improve public governance and its contribution to public policy and development (EGOV). It also promotes the interaction and cooperation between universities, research centres, governments, industries, and non-governmental organizations needed to develop the EGOV community. It is supported by a rich program of keynote lectures, plenary sessions, papers presentations within the thematic sessions, invited sessions, and networking sessions.
-      </td>
+      <td> <a href="http://emtechasia.com"> EmTech Asia </a> </td>
+      <td> Singapore </td>
+      <td> 30 January 2018 </td>
+      <td> 31 January 2018 </td>
+      <td> Where Technology, Business and Innovation Collide. EmTech Asia is not an average tech conference. It is a curation of the world’s leading tech executives, scientists and investors. </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://www.appliedmldays.org"> 
-          Applied Machine Learning Days
-        </a>
-      </td>
-      <td>Lausanne, Switzerland</td>
-      <td>28 January 2018</td>
-      <td>30 January 2018</td>
-      <td>
-        Four days of talks and tutorials on Machine Learning and Artificial Intelligence with speakers from around the world.
-      </td>
+      <td> <a href="https://theaicongress.com/"> The AI Congress London </a> </td>
+      <td> London, UK </td>
+      <td> 30 January 2018 </td>
+      <td> 31 January 2018 </td>
+      <td> The AI Congress is among the machine learning and artificial intelligence conferences for experts, professionals, investors, and business executives.  In addition to holding talks on major advancements in artificial intelligence and machine learning including their development, and implementation, the key focus will be on how AI and ML are affecting businesses and a variety of industries such as retail, banking, accountancy, healthcare and energy to name a few. Other topics also included for discussion are big data, virtual agents, the blockchain, image recognition and deep learning. Attendees will also get a chance to network with professionals from the field of AI. </td>
     </tr>
     <tr>
-      <td>
-        <a href="http://adeptevents.nl/event/predictive-advanced-analytics?lang=en,Utrecht"> 
-          Predictive & advanced analytics
-        </a>
-      </td>
-      <td>Utrecht, Netherlands</td>
-      <td>11 December 2017</td>
-      <td>12 December 2017</td>
-      <td>
-        This new 2-day seminar looks at the need to capture new data sources to add to what we already know and 
-        use machine learning to automatically discover, profile and catalog what is in these data sources. 
-        It then looks at how machine learning and advanced analytical techniques such as text analyses, 
-        sentiment analysis, graph and streaming analytics can be used at scale on Big data to provide new 
-        insight that helps foster growth, reduce costs and improve effectiveness for competitive advantage.
-      </td>
+      <td> <a href="https://aaai.org/Conferences/AAAI-18/aaai18call/"> The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18) </a> </td>
+      <td> New Orleans, USA </td>
+      <td> 2 February 2018 </td>
+      <td> 7 February 2018 </td>
+      <td> This year AAAI-18 especially encourages submissions in the emerging area of effective collaboration between humans and AI systems and novel applications thereof. </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://www.fruct.org/amict18"> 
-          FRUCT Conference: Workshops on Advances in Methods of Information and Communication Technology
-        </a>
-      </td>
-      <td>Petrozavodsk, Russia</td>
-      <td>11 April 2018</td>
-      <td>13 April 2018</td>
-      <td>
-        This year AMICT workshop will be held within the scope of the 22nd Conference of the Open Innovations Association FRUCT. The topics of interest include the following subject areas: • Information technology, • Network communication, • Information systems, • Theoretical and applied computer science, • Algorithms and Modeling, • Teaching methodology in Computer Science.
-      </td>
+      <td> <a href="http://www.developerweek.com/"> DeveloperWeek 2018 </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 3 February 2018 </td>
+      <td> 8 February 2018 </td>
+      <td> DeveloperWeek features a number of events such as hackathon and javascript conference. It also hosts a conference on artificial intelligence.  The AI conference is a two-day event that features both technical and theoretical aspect of AI. Topics for discussion are machine learning, cognitive computing, audio/video recognition, risk and threat, tools and open source libraries. </td>
     </tr>
     <tr>
-      <td>
-        <a href="http://event.savagemarketing.io"> 
-          Savage Marketing 2018
-        </a>
-      </td>
-      <td>Amsterdam, Netherlands</td>
-      <td>13 June 2018</td>
-      <td>14 June 2018</td>
-      <td>
-        The Future Of AI In Marketing
-      </td>
+      <td> <a href="https://aibesummit.com"> AIBE summit </a> </td>
+      <td> London, UK </td>
+      <td> 4 February 2018 </td>
+      <td> 4 February 2018 </td>
+      <td> The Artificial Intelligence in Business &amp; Entrepreneurship (AIBE) Summit is Europe’s largest non-profit conference on artificial intelligence. </td>
     </tr>
+    <tr>
+      <td> <a href="https://appliedaisummit.iqpc.com/"> Applied AI Summit </a> </td>
+      <td> London, UK </td>
+      <td> 5 February 2018 </td>
+      <td> 7 February 2018 </td>
+      <td> Applied AI Summit provides a platform to experts and industry leaders to showcase the latest advancements made in the field of AI.  The summit will focus on AI demos from industries that have implemented AI strategies. The conference will discuss, among other things, how to expedite the process of integrating AI into businesses, what practices need to be followed and how to build proper tools and skill set for AI. Attendees will include industrialists and business executives. </td>
+    </tr>
+    <tr>
+      <td> <a href="http://aievolutionevent.com/"> AI Evolution </a> </td>
+      <td> New York, USA </td>
+      <td> 8 February 2018 </td>
+      <td> 8 February 2018 </td>
+      <td> AI Evolution brings together experts, developers, technologists, and business leaders.  The purpose of the AI Evolution is to transform artificial intelligence theories into practical AI systems and applications which can then be utilized by business executives to get more value from their enterprise. </td>
+    </tr>
+    <tr>
+      <td> <a href="http://www.sysml.cc"> SysML conference </a> </td>
+      <td> Stanford, USA </td>
+      <td> 15 February 2018 </td>
+      <td> 16 February 2018 </td>
+      <td> SysML is a new conference targeting research at the intersection of systems and machine learning. The conference aims to elicit new connections amongst these fields, including identifying best practices and design principles for learning systems, as well as developing novel learning methods and theory tailored to practical machine learning workflows. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://latte-analytics.sydney.edu.au"> Learning Analytics and Knowledge (LAK) Conference </a> </td>
+      <td> Sydney, Australia </td>
+      <td> 5 March 2018 </td>
+      <td> 9 March 2018 </td>
+      <td>  </td>
+    </tr>
+    <tr>
+      <td> <a href="https://2018.fossasia.org"> FossAsia </a> </td>
+      <td> Singapore </td>
+      <td> 22 March 2018 </td>
+      <td> 25 March 2018 </td>
+      <td> The FOSSASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam. </td>
+    </tr>
+    
   </tbody>
 </table>
 
