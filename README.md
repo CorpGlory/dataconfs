@@ -19,6 +19,63 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
+      <td> <a href="http://cods-comad.in/2018/index.html"> Data Science &amp; Management of Data (CoDS-COMAD) </a> </td>
+      <td> Goa, India </td>
+      <td> 11 January 2018 </td>
+      <td> 13 January 2018 </td>
+      <td> Conference on Data Sciences (CoDS) encompasses the areas of data analytics, machine learning and managing big data. IKDD shall work with ACM to ensure co-sponsorship and publication of the proceedings of CoDS in the ACM digital library. </td>
+    </tr>
+    <tr>
+      <td> <a href="http://www.icaart.org/"> ICAART 2018 </a> </td>
+      <td> Funchal, Portugal </td>
+      <td> 16 January 2018 </td>
+      <td> 18 January 2018 </td>
+      <td> The purpose of the International Conference on Agents and Artificial Intelligence is to bring together researchers, engineers and practitioners interested in the theory and applications in the areas of Agents and Artificial Intelligence. Two simultaneous related tracks will be held, covering both applications and current research work. One track focuses on Agents, Multi-Agent Systems and Software Platforms, Distributed Problem Solving and Distributed AI in general. The other track focuses mainly on Artificial Intelligence, Knowledge Representation, Planning, Learning, Scheduling, Perception Reactive AI Systems, and Evolutionary Computing and other topics related to Intelligent Systems and Computational Intelligence. </td>
+    </tr>
+    <tr>
+      <td> <a href="http://globalbigdataconference.com/santa-clara/global-artificial-intelligence-conference/event-97.html"> Global Artificial Intelligence Conference </a> </td>
+      <td> Santa Clara, USA </td>
+      <td> 17 January 2018 </td>
+      <td> 19 January 2018 </td>
+      <td> Large amount of data created by various mobile platforms, social media interactions, e-commerce transactions, and IoT provide an opportunity for businesses to effectively tailor their services by effective use of AI. Proper use of Artificial Intelligence can be a major competitive advantage for any business considering vast amount of  data being generated.
+Artificial Intelligence is an emerging field that allows businesses to effectively mine historical data and better understand consumer behavior. This type of approach is critical for any business to successfully launch its products and better serve its existing markets. </td>
+    </tr>
+    <tr>
+      <td> <a href="http://aisea18.xnextcon.com/"> AI NEXTCon </a> </td>
+      <td> Seattle, USA </td>
+      <td> 17 January 2018 </td>
+      <td> 19 January 2018 </td>
+      <td> AI NEXTCon Conference Seattle brings together top technical engineers, practitioners, influential technologists and data scientists to share solutions and practical experiences in machine/deep learning, computer vision, speech recognition and NLP. The conference features a blend of hands-on workshops, inspirational keynotes, deep dive tech talks, and networking opportunity with like minded colleagues. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.quandl.com/alternative-data-conference"> ALTERNATIVE DATA CONFERENCE </a> </td>
+      <td> New York, USA </td>
+      <td> 18 January 2018 </td>
+      <td> 18 January 2018 </td>
+      <td> ADC 18 is an event for institutional investors and business professionals working to stay on top of the radically evolving landscape of alternative data. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.insightxnetwork.com/ai-healthcare-summit.html"> AI in Healthcare Summit </a> </td>
+      <td> Boston, USA </td>
+      <td> 18 January 2018 </td>
+      <td> 19 January 2018 </td>
+      <td> Join us in Boston this January 18-19 for our AI in Healthcare Summit, an industry-leading event uniquely seated at the burgeoning intersection of healthcare and cutting-edge technologies. You&#39;ll discover the latest advances in healthcare AI tools and techniques from the world&#39;s top innovators, and come away with a wealth of practical tips and actionable insights that will enable you and your institution or organization to become a pioneer in AI&#39;s transformation of healthcare. </td>
+    </tr>
+    <tr>
+      <td> <a href="http://www.cceai.org/"> CCEAI 2018 </a> </td>
+      <td> Boracay, Philipines  </td>
+      <td> 19 January 2018 </td>
+      <td> 21 January 2018 </td>
+      <td> This conference is a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results and development activities in Control Engineering and Artificial Intelligence. This conference provides opportunities for the delegates to exchange new ideas and application experiences face to face, to establish business or research relations and to find global partners for future collaboration. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.re-work.co/events/women-in-machine-intelligence-dinner-san-francisco"> Women in Machine Intelligence Dinner </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 23 January 2018 </td>
+      <td> 23 January 2018 </td>
+      <td> An evening of discussions &amp; networking around the progress and application of machine intelligence. </td>
+    </tr>
+    <tr>
       <td> <a href="https://fleming.events/advanced-analytics-forum/"> Advanced analytics forum </a> </td>
       <td> Berlin, Germany </td>
       <td> 25 January 2018 </td>
@@ -31,62 +88,6 @@ A list of conferences connected with data worldwide.
       <td> 27 January 2018 </td>
       <td> 29 January 2018 </td>
       <td> The International Conference on Information Visualization Theory and Applications aims at becoming a major point of contact between researchers, engineers and practitioners in Information Visualization. The conference will be structured along several topics related to Information Visualization. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.appliedmldays.org"> Applied Machine Learning Days </a> </td>
-      <td> Lausanne, Switzerland </td>
-      <td> 28 January 2018 </td>
-      <td> 30 January 2018 </td>
-      <td> Four days of talks and tutorials on Machine Learning and Artificial Intelligence with speakers from around the world. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://emtechasia.com"> EmTech Asia </a> </td>
-      <td> Singapore </td>
-      <td> 30 January 2018 </td>
-      <td> 31 January 2018 </td>
-      <td> Where Technology, Business and Innovation Collide. EmTech Asia is not an average tech conference. It is a curation of the world’s leading tech executives, scientists and investors. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theaicongress.com/"> The AI Congress London </a> </td>
-      <td> London, UK </td>
-      <td> 30 January 2018 </td>
-      <td> 31 January 2018 </td>
-      <td> The AI Congress is among the machine learning and artificial intelligence conferences for experts, professionals, investors, and business executives.  In addition to holding talks on major advancements in artificial intelligence and machine learning including their development, and implementation, the key focus will be on how AI and ML are affecting businesses and a variety of industries such as retail, banking, accountancy, healthcare and energy to name a few. Other topics also included for discussion are big data, virtual agents, the blockchain, image recognition and deep learning. Attendees will also get a chance to network with professionals from the field of AI. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://aaai.org/Conferences/AAAI-18/aaai18call/"> The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18) </a> </td>
-      <td> New Orleans, USA </td>
-      <td> 2 February 2018 </td>
-      <td> 7 February 2018 </td>
-      <td> This year AAAI-18 especially encourages submissions in the emerging area of effective collaboration between humans and AI systems and novel applications thereof. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://www.developerweek.com/"> DeveloperWeek 2018 </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 3 February 2018 </td>
-      <td> 8 February 2018 </td>
-      <td> DeveloperWeek features a number of events such as hackathon and javascript conference. It also hosts a conference on artificial intelligence.  The AI conference is a two-day event that features both technical and theoretical aspect of AI. Topics for discussion are machine learning, cognitive computing, audio/video recognition, risk and threat, tools and open source libraries. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://aibesummit.com"> AIBE summit </a> </td>
-      <td> London, UK </td>
-      <td> 4 February 2018 </td>
-      <td> 4 February 2018 </td>
-      <td> The Artificial Intelligence in Business &amp; Entrepreneurship (AIBE) Summit is Europe’s largest non-profit conference on artificial intelligence. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://appliedaisummit.iqpc.com/"> Applied AI Summit </a> </td>
-      <td> London, UK </td>
-      <td> 5 February 2018 </td>
-      <td> 7 February 2018 </td>
-      <td> Applied AI Summit provides a platform to experts and industry leaders to showcase the latest advancements made in the field of AI.  The summit will focus on AI demos from industries that have implemented AI strategies. The conference will discuss, among other things, how to expedite the process of integrating AI into businesses, what practices need to be followed and how to build proper tools and skill set for AI. Attendees will include industrialists and business executives. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://aievolutionevent.com/"> AI Evolution </a> </td>
-      <td> New York, USA </td>
-      <td> 8 February 2018 </td>
-      <td> 8 February 2018 </td>
-      <td> AI Evolution brings together experts, developers, technologists, and business leaders.  The purpose of the AI Evolution is to transform artificial intelligence theories into practical AI systems and applications which can then be utilized by business executives to get more value from their enterprise. </td>
     </tr>
     
   </tbody>
@@ -108,74 +109,68 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td> <a href="http://emtechasia.com"> EmTech Asia </a> </td>
-      <td> Singapore </td>
-      <td> 30 January 2018 </td>
-      <td> 31 January 2018 </td>
-      <td> Where Technology, Business and Innovation Collide. EmTech Asia is not an average tech conference. It is a curation of the world’s leading tech executives, scientists and investors. </td>
+      <td> <a href="http://cods-comad.in/2018/index.html"> Data Science &amp; Management of Data (CoDS-COMAD) </a> </td>
+      <td> Goa, India </td>
+      <td> 11 January 2018 </td>
+      <td> 13 January 2018 </td>
+      <td> Conference on Data Sciences (CoDS) encompasses the areas of data analytics, machine learning and managing big data. IKDD shall work with ACM to ensure co-sponsorship and publication of the proceedings of CoDS in the ACM digital library. </td>
     </tr>
     <tr>
-      <td> <a href="https://theaicongress.com/"> The AI Congress London </a> </td>
-      <td> London, UK </td>
-      <td> 30 January 2018 </td>
-      <td> 31 January 2018 </td>
-      <td> The AI Congress is among the machine learning and artificial intelligence conferences for experts, professionals, investors, and business executives.  In addition to holding talks on major advancements in artificial intelligence and machine learning including their development, and implementation, the key focus will be on how AI and ML are affecting businesses and a variety of industries such as retail, banking, accountancy, healthcare and energy to name a few. Other topics also included for discussion are big data, virtual agents, the blockchain, image recognition and deep learning. Attendees will also get a chance to network with professionals from the field of AI. </td>
+      <td> <a href="http://www.icaart.org/"> ICAART 2018 </a> </td>
+      <td> Funchal, Portugal </td>
+      <td> 16 January 2018 </td>
+      <td> 18 January 2018 </td>
+      <td> The purpose of the International Conference on Agents and Artificial Intelligence is to bring together researchers, engineers and practitioners interested in the theory and applications in the areas of Agents and Artificial Intelligence. Two simultaneous related tracks will be held, covering both applications and current research work. One track focuses on Agents, Multi-Agent Systems and Software Platforms, Distributed Problem Solving and Distributed AI in general. The other track focuses mainly on Artificial Intelligence, Knowledge Representation, Planning, Learning, Scheduling, Perception Reactive AI Systems, and Evolutionary Computing and other topics related to Intelligent Systems and Computational Intelligence. </td>
     </tr>
     <tr>
-      <td> <a href="https://aaai.org/Conferences/AAAI-18/aaai18call/"> The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18) </a> </td>
-      <td> New Orleans, USA </td>
-      <td> 2 February 2018 </td>
-      <td> 7 February 2018 </td>
-      <td> This year AAAI-18 especially encourages submissions in the emerging area of effective collaboration between humans and AI systems and novel applications thereof. </td>
+      <td> <a href="http://globalbigdataconference.com/santa-clara/global-artificial-intelligence-conference/event-97.html"> Global Artificial Intelligence Conference </a> </td>
+      <td> Santa Clara, USA </td>
+      <td> 17 January 2018 </td>
+      <td> 19 January 2018 </td>
+      <td> Large amount of data created by various mobile platforms, social media interactions, e-commerce transactions, and IoT provide an opportunity for businesses to effectively tailor their services by effective use of AI. Proper use of Artificial Intelligence can be a major competitive advantage for any business considering vast amount of  data being generated.
+Artificial Intelligence is an emerging field that allows businesses to effectively mine historical data and better understand consumer behavior. This type of approach is critical for any business to successfully launch its products and better serve its existing markets. </td>
     </tr>
     <tr>
-      <td> <a href="http://www.developerweek.com/"> DeveloperWeek 2018 </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 3 February 2018 </td>
-      <td> 8 February 2018 </td>
-      <td> DeveloperWeek features a number of events such as hackathon and javascript conference. It also hosts a conference on artificial intelligence.  The AI conference is a two-day event that features both technical and theoretical aspect of AI. Topics for discussion are machine learning, cognitive computing, audio/video recognition, risk and threat, tools and open source libraries. </td>
+      <td> <a href="http://aisea18.xnextcon.com/"> AI NEXTCon </a> </td>
+      <td> Seattle, USA </td>
+      <td> 17 January 2018 </td>
+      <td> 19 January 2018 </td>
+      <td> AI NEXTCon Conference Seattle brings together top technical engineers, practitioners, influential technologists and data scientists to share solutions and practical experiences in machine/deep learning, computer vision, speech recognition and NLP. The conference features a blend of hands-on workshops, inspirational keynotes, deep dive tech talks, and networking opportunity with like minded colleagues. </td>
     </tr>
     <tr>
-      <td> <a href="https://aibesummit.com"> AIBE summit </a> </td>
-      <td> London, UK </td>
-      <td> 4 February 2018 </td>
-      <td> 4 February 2018 </td>
-      <td> The Artificial Intelligence in Business &amp; Entrepreneurship (AIBE) Summit is Europe’s largest non-profit conference on artificial intelligence. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://appliedaisummit.iqpc.com/"> Applied AI Summit </a> </td>
-      <td> London, UK </td>
-      <td> 5 February 2018 </td>
-      <td> 7 February 2018 </td>
-      <td> Applied AI Summit provides a platform to experts and industry leaders to showcase the latest advancements made in the field of AI.  The summit will focus on AI demos from industries that have implemented AI strategies. The conference will discuss, among other things, how to expedite the process of integrating AI into businesses, what practices need to be followed and how to build proper tools and skill set for AI. Attendees will include industrialists and business executives. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://aievolutionevent.com/"> AI Evolution </a> </td>
+      <td> <a href="https://www.quandl.com/alternative-data-conference"> ALTERNATIVE DATA CONFERENCE </a> </td>
       <td> New York, USA </td>
-      <td> 8 February 2018 </td>
-      <td> 8 February 2018 </td>
-      <td> AI Evolution brings together experts, developers, technologists, and business leaders.  The purpose of the AI Evolution is to transform artificial intelligence theories into practical AI systems and applications which can then be utilized by business executives to get more value from their enterprise. </td>
+      <td> 18 January 2018 </td>
+      <td> 18 January 2018 </td>
+      <td> ADC 18 is an event for institutional investors and business professionals working to stay on top of the radically evolving landscape of alternative data. </td>
     </tr>
     <tr>
-      <td> <a href="http://www.sysml.cc"> SysML conference </a> </td>
-      <td> Stanford, USA </td>
-      <td> 15 February 2018 </td>
-      <td> 16 February 2018 </td>
-      <td> SysML is a new conference targeting research at the intersection of systems and machine learning. The conference aims to elicit new connections amongst these fields, including identifying best practices and design principles for learning systems, as well as developing novel learning methods and theory tailored to practical machine learning workflows. </td>
+      <td> <a href="https://www.insightxnetwork.com/ai-healthcare-summit.html"> AI in Healthcare Summit </a> </td>
+      <td> Boston, USA </td>
+      <td> 18 January 2018 </td>
+      <td> 19 January 2018 </td>
+      <td> Join us in Boston this January 18-19 for our AI in Healthcare Summit, an industry-leading event uniquely seated at the burgeoning intersection of healthcare and cutting-edge technologies. You&#39;ll discover the latest advances in healthcare AI tools and techniques from the world&#39;s top innovators, and come away with a wealth of practical tips and actionable insights that will enable you and your institution or organization to become a pioneer in AI&#39;s transformation of healthcare. </td>
     </tr>
     <tr>
-      <td> <a href="https://latte-analytics.sydney.edu.au"> Learning Analytics and Knowledge (LAK) Conference </a> </td>
-      <td> Sydney, Australia </td>
-      <td> 5 March 2018 </td>
-      <td> 9 March 2018 </td>
+      <td> <a href="http://www.cceai.org/"> CCEAI 2018 </a> </td>
+      <td> Boracay, Philipines  </td>
+      <td> 19 January 2018 </td>
+      <td> 21 January 2018 </td>
+      <td> This conference is a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results and development activities in Control Engineering and Artificial Intelligence. This conference provides opportunities for the delegates to exchange new ideas and application experiences face to face, to establish business or research relations and to find global partners for future collaboration. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.re-work.co/events/women-in-machine-intelligence-dinner-san-francisco"> Women in Machine Intelligence Dinner </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 23 January 2018 </td>
+      <td> 23 January 2018 </td>
+      <td> An evening of discussions &amp; networking around the progress and application of machine intelligence. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://conferences.oreilly.com/strata#ny "> Strata data conf </a> </td>
+      <td> New York, USA </td>
+      <td> 11 September 2018 </td>
+      <td> 14 September 2018 </td>
       <td>  </td>
-    </tr>
-    <tr>
-      <td> <a href="https://2018.fossasia.org"> FossAsia </a> </td>
-      <td> Singapore </td>
-      <td> 22 March 2018 </td>
-      <td> 25 March 2018 </td>
-      <td> The FOSSASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam. </td>
     </tr>
     
   </tbody>
