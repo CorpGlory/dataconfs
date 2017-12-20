@@ -108,74 +108,67 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td> <a href="https://www.miesummit.com/"> Beyond Machine’s Deep Learning Bootcamp </a> </td>
-      <td> Berlin, Germany </td>
-      <td> 25 January 2018 </td>
-      <td> 25 January 2018 </td>
-      <td> Connect enterprises, startups, investors and discuss of the implications of machine intelligence. Increase public understanding and push forward the AI industry. </td>
+      <td> <a href="http://capetown2018.satrdays.org/"> The satRday Cape Town conference </a> </td>
+      <td> Cape Town, South Africa </td>
+      <td> 17 March 2018 </td>
+      <td> 17 March 2018 </td>
+      <td> The R community and some of South Africa&#39;s most forward thinking companies have come together to bring satRday back to Cape Town. This conference provides an opportunity to hear from and network with top Researchers, Data Scientists and Developers from the R community in South Africa and beyond. </td>
     </tr>
     <tr>
-      <td> <a href="https://www.re-work.co/events/ai-assistant-summit-san-francisco-2018"> AI Assistant Summit San Francisco </a> </td>
+      <td> <a href="https://www.insightxnetwork.com/ai-robotics-compliance-liability-risk-management.html"> AI &amp; Robotics: Compliance, Liability &amp; Risk Management​ </a> </td>
       <td> San Francisco, USA </td>
-      <td> 25 January 2018 </td>
-      <td> 26 January 2018 </td>
-      <td> The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. </td>
+      <td> 20 March 2018 </td>
+      <td> 21 March 2018 </td>
+      <td> There are numerous technical conferences on the advances of artificial intelligence and robotics, but the legal implications of implementing these technologies have been sorely neglected! From AI in healthcare, to self-driving cars, to data privacy in AI devices, the liability implications alone are enormous! Attend the first conference focusing solely on legal issues in the AI and Robotics sector at IEN’s AI &amp; Robotics: Compliance, Liability and Risk Management this March and get up-to-speed on the key issues affecting all sectors of the market! </td>
     </tr>
     <tr>
-      <td> <a href="https://www.re-work.co/events/deep-learning-summit-san-francisco-2018"> Deep Learning Summit San Francisco </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 25 January 2018 </td>
-      <td> 26 January 2018 </td>
-      <td> The Smart Artificial Intelligence Revolution: Explore software that can recognize patterns in digital representations of sounds, images, &amp; data. </td>
+      <td> <a href="http://www.biwasummit.org/"> Analytics and Data Summit </a> </td>
+      <td> Redwood Shores, USA </td>
+      <td> 20 March 2018 </td>
+      <td> 22 March 2018 </td>
+      <td> The Analytics and Data Summit is organized and managed by Oracle BI, Data Warehouse, and Analytics user community. This year, it even includes the annual Oracle Spatial Summit. This event attracts the top Oracle BI, Data Warehouse, Advanced Analytics, Big Data, and Spatial and Graph experts. </td>
     </tr>
     <tr>
-      <td> <a href="https://www.insightxnetwork.com/artificial-intelligence-machine-learning-101-chicago.html"> Artificial Intelligence &amp; Machine Learning 101 </a> </td>
+      <td> <a href="https://events.economist.com/events-conferences/americas/innovation"> Innovation Summit 2018 America </a> </td>
       <td> Chicago, USA </td>
-      <td> 25 January 2018 </td>
-      <td> 26 January 2018 </td>
-      <td> Artificial intelligence and machine learning applications are now part of everyday life. Yet while the technology has moved out of academia and into business, an understanding of how this technology works remains firmly in the domain of its creators. The hype and excitement for what this tech can do is doing nothing to dispel the confusion. Designed for business people across industries, with and without technical backgrounds, this 101 course will provide a &#34;how to&#34; foundation for identifying opportunities to integrate machine learning technology into business processes and strategy. </td>
+      <td> 22 March 2018 </td>
+      <td> 22 March 2018 </td>
+      <td> The Economist Events’ Innovation Summit will gather leading thinkers and practitioners to explore these opportunities and challenges. Editors from The Economist will ask the searching questions as Fortune 500 CEOs, policymakers, academics and disruptive entrepreneurs share their insights and strategies for successfully embracing AI and machine learning to build a truly intelligent company. </td>
     </tr>
     <tr>
-      <td> <a href="http://iaenmissionsociale.com/?lang=en"> AI on a Social Mission Conference </a> </td>
-      <td> Montreal, Canada </td>
-      <td> 25 January 2018 </td>
-      <td> 26 January 2018 </td>
-      <td> AI on a Social Mission is the first major conference on social impact of AI in Montreal. Start ups and NPOs will explain how they use artificial intelligence for their social mission. They will also share with us their experience as a start up or non-profit with a social mission and their dreams for AI and social good. </td>
+      <td> <a href="https://www.nvidia.com/en-us/gtc/"> GPU Technology Conference </a> </td>
+      <td> Silicon Valley, USA </td>
+      <td> 26 March 2018 </td>
+      <td> 29 March 2018 </td>
+      <td> GTC is the largest and most important AI and deep learning event of the year for GPU developers. Come explore GTC and the global GTC event series for valuable training and a showcase of the most vital work in the computing industry today. See the latest breakthroughs in everything from healthcare to virtual reality, accelerated analytics, and self-driving cars. </td>
     </tr>
     <tr>
-      <td> <a href="http://datadaytexas.com/"> Data Day Texas </a> </td>
-      <td> Austin, USA </td>
-      <td> 27 January 2018 </td>
-      <td> 27 January 2018 </td>
-      <td> Data Day Texas each year highlights the latest tools, techniques, and projects in the data space, bringing speakers and attendees from around the world to enjoy the hospitality that is uniquely Austin. Since its inception, Data Day Texas has continually been the largest independent data-centric event held within 1000 miles of Texas. Our most recent edition drew over 750 attendees. </td>
+      <td> <a href="http://www.icaci2018.org/"> International Conference on Advanced Computational Intelligence (ICACI) </a> </td>
+      <td> Xiamen, China </td>
+      <td> 29 March 2018 </td>
+      <td> 31 March 2018 </td>
+      <td> ICACI 2018 aims to provide a high-level international forum for scientists, engineers, and educators to present the state-of-the-art research and applications in computational intelligence. The conference will feature plenary speeches given by world renowned scholars, regular sessions with broad coverage, and special sessions focusing on popular topics. </td>
     </tr>
     <tr>
-      <td> <a href="http://www.iccdmta.com/"> International conference on Computers, Data Management and Technology Applications (ICCDMTA) </a> </td>
-      <td> Cairo, Egypt </td>
-      <td> 28 January 2018 </td>
-      <td> 29 January 2018 </td>
-      <td>  </td>
+      <td> <a href="http://saiconference.com/FICC"> Future of Information and Communication Conference (FICC) </a> </td>
+      <td> Singapore </td>
+      <td> 5 April 2018 </td>
+      <td> 6 April 2018 </td>
+      <td> FICC 2018 aims to provide a forum for researchers from both academia and industry to share their latest research contributions and exchange knowledge with the common goal of shaping the future of Information and Communication. Join us, April 5-6, to explore discovery, progress, and achievements related to Communication, Data Science, Computing and Internet of Things. </td>
     </tr>
     <tr>
-      <td> <a href="https://www.chatbotsummit.com/"> Chatbot Summit </a> </td>
-      <td> Tel Aviv, Israel </td>
-      <td> 31 January 2018 </td>
-      <td> 31 January 2018 </td>
-      <td> Connect with 1500+ fellow Chatbot enthusiasts! From founders to executives, digital experts, and data scientists. Select from 40+ sessions across 4 content stages featuring over 80 expert speakers! </td>
+      <td> <a href="http://www.speechtek.com/2018/"> SpeechTEK </a> </td>
+      <td> Washington, USA </td>
+      <td> 9 April 2018 </td>
+      <td> 11 April 2018 </td>
+      <td> Speech and conversational technologies—from voice-only IVR to visual IVR, multimodal to omnichanel, from simple commands to advanced natural language, and from smart apps to digital assistants (both voice and text)—help businesses connect with customers. These technologies help customers search, query, interact, and perform transactions easily and effectively. </td>
     </tr>
     <tr>
-      <td> <a href="https://aimeetupseries.com/"> Age of AI </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 31 January 2018 </td>
-      <td> 1 February 2018 </td>
-      <td> The goal of our conference is to create a friendly social setting for discussing the most interesting problems in AI and foster much more interactive environment than we typically have on traditional conferences. If you are looking for an well-rounded perspective on modern ideas in AI and its industrial applications, eager to meet scientists and engineers at the discussion table, find co-founders or business partners — welcome to Age of AI! </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.rstudio.com/conference/"> rstudio::conf 2018 </a> </td>
-      <td> San Diego, USA </td>
-      <td> 31 January 2018 </td>
-      <td> 3 February 2018 </td>
-      <td> For 2018 we’ve added more optional Training Days workshops for people newer to R and for advanced users and administrators. We’ve also expanded to three conference tracks: One focused on the fundamentals of data science with R, another mostly for more experienced RStudio users on advanced capabilities, R in “production” and interoperability, and a third on solutions to interesting problems. </td>
+      <td> <a href="https://ai.oreilly.com.cn/ai-cn?locale=en"> Artificial Intelligence Conference Beijing </a> </td>
+      <td> Beijing, China </td>
+      <td> 10 April 2018 </td>
+      <td> 13 April 2018 </td>
+      <td> Two global AI hubs come together—the AI Conference in Beijing is an unprecedented meeting of the world’s leading innovators in applied AI. </td>
     </tr>
     
   </tbody>
