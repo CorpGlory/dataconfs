@@ -108,67 +108,74 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td> <a href="http://capetown2018.satrdays.org/"> The satRday Cape Town conference </a> </td>
-      <td> Cape Town, South Africa </td>
-      <td> 17 March 2018 </td>
-      <td> 17 March 2018 </td>
-      <td> The R community and some of South Africa&#39;s most forward thinking companies have come together to bring satRday back to Cape Town. This conference provides an opportunity to hear from and network with top Researchers, Data Scientists and Developers from the R community in South Africa and beyond. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.insightxnetwork.com/ai-robotics-compliance-liability-risk-management.html"> AI &amp; Robotics: Compliance, Liability &amp; Risk Management​ </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 20 March 2018 </td>
-      <td> 21 March 2018 </td>
-      <td> There are numerous technical conferences on the advances of artificial intelligence and robotics, but the legal implications of implementing these technologies have been sorely neglected! From AI in healthcare, to self-driving cars, to data privacy in AI devices, the liability implications alone are enormous! Attend the first conference focusing solely on legal issues in the AI and Robotics sector at IEN’s AI &amp; Robotics: Compliance, Liability and Risk Management this March and get up-to-speed on the key issues affecting all sectors of the market! </td>
-    </tr>
-    <tr>
-      <td> <a href="http://www.biwasummit.org/"> Analytics and Data Summit </a> </td>
-      <td> Redwood Shores, USA </td>
-      <td> 20 March 2018 </td>
-      <td> 22 March 2018 </td>
-      <td> The Analytics and Data Summit is organized and managed by Oracle BI, Data Warehouse, and Analytics user community. This year, it even includes the annual Oracle Spatial Summit. This event attracts the top Oracle BI, Data Warehouse, Advanced Analytics, Big Data, and Spatial and Graph experts. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://events.economist.com/events-conferences/americas/innovation"> Innovation Summit 2018 America </a> </td>
-      <td> Chicago, USA </td>
-      <td> 22 March 2018 </td>
-      <td> 22 March 2018 </td>
-      <td> The Economist Events’ Innovation Summit will gather leading thinkers and practitioners to explore these opportunities and challenges. Editors from The Economist will ask the searching questions as Fortune 500 CEOs, policymakers, academics and disruptive entrepreneurs share their insights and strategies for successfully embracing AI and machine learning to build a truly intelligent company. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.nvidia.com/en-us/gtc/"> GPU Technology Conference </a> </td>
-      <td> Silicon Valley, USA </td>
-      <td> 26 March 2018 </td>
-      <td> 29 March 2018 </td>
-      <td> GTC is the largest and most important AI and deep learning event of the year for GPU developers. Come explore GTC and the global GTC event series for valuable training and a showcase of the most vital work in the computing industry today. See the latest breakthroughs in everything from healthcare to virtual reality, accelerated analytics, and self-driving cars. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://www.icaci2018.org/"> International Conference on Advanced Computational Intelligence (ICACI) </a> </td>
-      <td> Xiamen, China </td>
-      <td> 29 March 2018 </td>
-      <td> 31 March 2018 </td>
-      <td> ICACI 2018 aims to provide a high-level international forum for scientists, engineers, and educators to present the state-of-the-art research and applications in computational intelligence. The conference will feature plenary speeches given by world renowned scholars, regular sessions with broad coverage, and special sessions focusing on popular topics. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://saiconference.com/FICC"> Future of Information and Communication Conference (FICC) </a> </td>
-      <td> Singapore </td>
-      <td> 5 April 2018 </td>
-      <td> 6 April 2018 </td>
-      <td> FICC 2018 aims to provide a forum for researchers from both academia and industry to share their latest research contributions and exchange knowledge with the common goal of shaping the future of Information and Communication. Join us, April 5-6, to explore discovery, progress, and achievements related to Communication, Data Science, Computing and Internet of Things. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://www.speechtek.com/2018/"> SpeechTEK </a> </td>
-      <td> Washington, USA </td>
-      <td> 9 April 2018 </td>
+      <td> <a href="https://anacondacon.io/"> AnacondaCON 2018 </a> </td>
+      <td> Austin, USA </td>
+      <td> 8 April 2018 </td>
       <td> 11 April 2018 </td>
-      <td> Speech and conversational technologies—from voice-only IVR to visual IVR, multimodal to omnichanel, from simple commands to advanced natural language, and from smart apps to digital assistants (both voice and text)—help businesses connect with customers. These technologies help customers search, query, interact, and perform transactions easily and effectively. </td>
+      <td> From the creators of Anaconda Distribution, the world’s most popular Python data science platform, AnacondaCON 2018 is the hottest data science conference of the year! This three-day event, taking place in Austin on April 8-11, 2018, will feature keynotes, general sessions, and three main tracks: Real World Data Science, Anaconda Enterprise, and Open Source Technology. We’re also excited to offer a full day of tutorials that will show you how to harness the power of data science. </td>
     </tr>
     <tr>
-      <td> <a href="https://ai.oreilly.com.cn/ai-cn?locale=en"> Artificial Intelligence Conference Beijing </a> </td>
-      <td> Beijing, China </td>
-      <td> 10 April 2018 </td>
-      <td> 13 April 2018 </td>
-      <td> Two global AI hubs come together—the AI Conference in Beijing is an unprecedented meeting of the world’s leading innovators in applied AI. </td>
+      <td> <a href="https://www.eventbrite.com/e/applied-artificial-intelligence-conference-2018-aai18-tickets-38511726611"> Applied Artificial Intelligence Conference </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 12 April 2018 </td>
+      <td> 12 April 2018 </td>
+      <td> The one day conference brings together the brightest and most experienced professionals in the field of AI for an immersive day of learning, discussion, and connection. This year’s agenda will focus on the latest and future impact of AI applications and commercialization across a breadth of sectors, including Transportation, Healthcare, Finance, Future of Work and Cybersecurity. </td>
+    </tr>
+    <tr>
+      <td> <a href="http://www.worldforumdisrupt.com/ai-san-francisco-2018/"> AI World Forum </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 12 April 2018 </td>
+      <td> 12 April 2018 </td>
+      <td> We bring those at the forefront of AI together, providing an outlet for thought sharing, leading to change &amp; growth! Each speaker shares their INCREDIBLE insight from case study examples, ensuring our attendees walk away with actionable tactics and strategies that can be implemented straight away. Our focus is on uniting leading minds, generating unrivalled learning experiences, creating passionate discussion and actual transformation. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://2018.ieeeicassp.org/"> ICASSP 2018 </a> </td>
+      <td> Calgary, Canada </td>
+      <td> 15 April 2018 </td>
+      <td> 20 April 2018 </td>
+      <td> Signal Processing and Artificial Intelligence: Changing the World </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.monage.io/"> Monage </a> </td>
+      <td> Mountain View, USA </td>
+      <td> 17 April 2018 </td>
+      <td> 19 April 2018 </td>
+      <td> The MoNage ecosystem connects Chatbots, Messaging Platforms, AI and Conversational Interfaces. Blockchain technologies, Tokens and Crypto fuel the MoNage economy. We are at the forefront of the next communications revolution. Join us and learn about the future of communications. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/big-data-analytics-hong-kong-2018"> Big Data &amp; Analytics Innovation Summit </a> </td>
+      <td> Hong Kong </td>
+      <td> 18 April 2018 </td>
+      <td> 19 April 2018 </td>
+      <td> With over 25 internationally renowned speakers and 150+ world-class delegates in attendance this summit boasts some of Big Data&#39;s most influential individuals to educate you, inspire you and gives you unprecedented access to incredible networking opportunities. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://aiconference.ru/en"> AI Conference Moscow </a> </td>
+      <td> Moscow, Russia </td>
+      <td> 19 April 2018 </td>
+      <td> 19 April 2018 </td>
+      <td> Find out how to apply AI technologies to improve: sales; production; marketing; customer service. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/big-data-innovation-summit-san-francisco"> Big Data Innovation Summit </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 19 April 2018 </td>
+      <td> 20 April 2018 </td>
+      <td> Cultivate the Data, Yield the Profit </td>
+    </tr>
+    <tr>
+      <td> <a href="http://edw2017.dataversity.net/"> Enterprise Data World (EDW) </a> </td>
+      <td> San Diego, USA </td>
+      <td> 22 April 2018 </td>
+      <td> 27 April 2018 </td>
+      <td> What to Expect at EDW 2017: Accelerating Self Service BI; Advanced Data Architectures for Big Data, IoT and the Cloud; Agile Analytic Operations; Architecting a Big Data Platform; Blockchain Impact on Enterprise Data Management; Building a Master Data Ontology; Building the Business Glossary; Building the Enterprise Knowledge Graph; Cross Functional Data Governance Program; Current State of NoSQL Databases; Data Catalogs; Data Curation; Data Glossary as a Service; Data Governance Architecture; Data Governance for European Union GDPR; Data Integration Hubs etc. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://rpanordics.iqpc.co.uk/"> RPA &amp; AI Summit </a> </td>
+      <td> Copenhagen, Denmark </td>
+      <td> 23 April 2018 </td>
+      <td> 25 April 2018 </td>
+      <td> Across the Nordics, organisations are ramping up robotic process automation, and looking to leverage it beyond the breakeven point, creating tangible returns. But with this new technology comes a complex set of questions and no guidebook for success. At Intelligent Automation Nordics you will arm yourself with this knowledge to achieve greater productivity, quality, customer experience and cost savings for the business. </td>
     </tr>
     
   </tbody>
