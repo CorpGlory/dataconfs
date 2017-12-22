@@ -108,74 +108,75 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td> <a href="https://anacondacon.io/"> AnacondaCON 2018 </a> </td>
-      <td> Austin, USA </td>
-      <td> 8 April 2018 </td>
-      <td> 11 April 2018 </td>
-      <td> From the creators of Anaconda Distribution, the world’s most popular Python data science platform, AnacondaCON 2018 is the hottest data science conference of the year! This three-day event, taking place in Austin on April 8-11, 2018, will feature keynotes, general sessions, and three main tracks: Real World Data Science, Anaconda Enterprise, and Open Source Technology. We’re also excited to offer a full day of tutorials that will show you how to harness the power of data science. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.eventbrite.com/e/applied-artificial-intelligence-conference-2018-aai18-tickets-38511726611"> Applied Artificial Intelligence Conference </a> </td>
+      <td> <a href="https://theinnovationenterprise.com/summits/modern-data-management-summit-san-francisco"> Modern Data Management Summit </a> </td>
       <td> San Francisco, USA </td>
-      <td> 12 April 2018 </td>
-      <td> 12 April 2018 </td>
-      <td> The one day conference brings together the brightest and most experienced professionals in the field of AI for an immersive day of learning, discussion, and connection. This year’s agenda will focus on the latest and future impact of AI applications and commercialization across a breadth of sectors, including Transportation, Healthcare, Finance, Future of Work and Cybersecurity. </td>
+      <td> 26 February 2018 </td>
+      <td> 27 February 2018 </td>
+      <td> Covering the hottest topics within master data management, big data analytics, data science and business facing data-driven applications, senior level executives and hands-on practitioners can come together to obtain real action points and useful connections to better support their business goals. </td>
     </tr>
     <tr>
-      <td> <a href="http://www.worldforumdisrupt.com/ai-san-francisco-2018/"> AI World Forum </a> </td>
+      <td> <a href="https://theinnovationenterprise.com/summits/digital-marketing-innovation-summit-new-york-2018"> Digital Marketing Innovation Summit NY </a> </td>
+      <td> New York, USA </td>
+      <td> 27 February 2018 </td>
+      <td> 28 February 2018 </td>
+      <td> The Digital Marketing Innovation Summit brings together senior digital leaders across the country and around the world for networking and thought leadership. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/business-analytics-innovation-summit-las-vegas-2018"> Business Analytics Innovation Summit Las Vegas </a> </td>
+      <td> Las Vegas, USA </td>
+      <td> 7 March 2018 </td>
+      <td> 8 March 2018 </td>
+      <td> The Business Analytics Innovation Summit provides a platform to share unique insight into the innovations that are driving success in the worlds leading organizations. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/big-data-innovation-summit-las-vegas-2018"> Big Data Innovation Summit Las Vegas </a> </td>
+      <td> Las Vegas, USA </td>
+      <td> 7 March 2018 </td>
+      <td> 8 March 2018 </td>
+      <td> Our Big Data Innovation Summit returns to the big lights of Las Vegas with internationally renowned speakers and world-class delegates in attendance. This summit boasts some of Big Data&#39;s most influential individuals performing presentations, running interactive workshops and offering expert insight. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/digital-marketing-innovation-summit-melbourne-2018"> Digital Marketing Innovation Summit Melbourne </a> </td>
+      <td> Melbourne, Australia </td>
+      <td> 15 March 2018 </td>
+      <td> 16 March 2018 </td>
+      <td> 25+ Industry Speakers &amp; 100+ delegates, Digital Marketing Innovation is the most exclusive gathering of Australia&#39;s leaders in digital marketing and digital media. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.dwbisummit.com/?lang=en"> DATA WAREHOUSING &amp; BUSINESS INTELLIGENCE SUMMIT
+ </a> </td>
+      <td> Utrecht, Netherlands </td>
+      <td> 20 March 2018 </td>
+      <td> 21 March 2018 </td>
+      <td> The two day DW&amp;BI Summit is geared to for IT Executives, IT Management and Architects, business intelligence and data warehousing professionals who wish to take a detailed and practical look at the latest developments in Data Warehousing and Business Intelligence. The following professionals should attend:IT executives and managers; Sponsors of BI and DW programs; Business technology managers; BI/DW project managers; Data warehousing architects; Business intelligence practitioners; Business analysts; Data scientists; Technology architects; Data architects and data modelers; Project and program managers; Data integrators; Developers of BI and DW systems; Business and IT consultants. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/chief-marketing-officer-summit-san-francisco-2018"> Chief Marketing Officer Summit </a> </td>
       <td> San Francisco, USA </td>
-      <td> 12 April 2018 </td>
-      <td> 12 April 2018 </td>
-      <td> We bring those at the forefront of AI together, providing an outlet for thought sharing, leading to change &amp; growth! Each speaker shares their INCREDIBLE insight from case study examples, ensuring our attendees walk away with actionable tactics and strategies that can be implemented straight away. Our focus is on uniting leading minds, generating unrivalled learning experiences, creating passionate discussion and actual transformation. </td>
+      <td> 20 March 2018 </td>
+      <td> 21 March 2018 </td>
+      <td> The Chief Marketing Officer Summit will equip you with progressive strategies to enhance your marketing leadership in the digital age </td>
     </tr>
     <tr>
-      <td> <a href="https://2018.ieeeicassp.org/"> ICASSP 2018 </a> </td>
-      <td> Calgary, Canada </td>
-      <td> 15 April 2018 </td>
-      <td> 20 April 2018 </td>
-      <td> Signal Processing and Artificial Intelligence: Changing the World </td>
+      <td> <a href="https://theinnovationenterprise.com/summits/big-data-innovation-summit-london-2018"> Big Data Innovation Summit London </a> </td>
+      <td> London, UK </td>
+      <td> 21 March 2018 </td>
+      <td> 22 March 2018 </td>
+      <td> Returning to London this year is The Big Data Innovation Summit. Bringing together a number of market leading professionals for an exciting agenda, packed full of presentations, workshops, training sessions &amp; panel discussions. </td>
     </tr>
     <tr>
-      <td> <a href="https://www.monage.io/"> Monage </a> </td>
-      <td> Mountain View, USA </td>
-      <td> 17 April 2018 </td>
-      <td> 19 April 2018 </td>
-      <td> The MoNage ecosystem connects Chatbots, Messaging Platforms, AI and Conversational Interfaces. Blockchain technologies, Tokens and Crypto fuel the MoNage economy. We are at the forefront of the next communications revolution. Join us and learn about the future of communications. </td>
+      <td> <a href="https://theinnovationenterprise.com/summits/predictive-analytics-innovation-summit-london-2018"> Predictive Analytics Innovation Summit </a> </td>
+      <td> London, UK </td>
+      <td> 21 March 2018 </td>
+      <td> 22 March 2018 </td>
+      <td> Predictive Analytics is now a crucial part of business strategy. With the right approach, businesses can use AI-based predictive technologies to forecast a range of outcomes; the behaviour of customers, markets, price trends, staff retention, marketing campaign performance, fraud detection and supply chain management. </td>
     </tr>
     <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/big-data-analytics-hong-kong-2018"> Big Data &amp; Analytics Innovation Summit </a> </td>
-      <td> Hong Kong </td>
-      <td> 18 April 2018 </td>
-      <td> 19 April 2018 </td>
-      <td> With over 25 internationally renowned speakers and 150+ world-class delegates in attendance this summit boasts some of Big Data&#39;s most influential individuals to educate you, inspire you and gives you unprecedented access to incredible networking opportunities. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://aiconference.ru/en"> AI Conference Moscow </a> </td>
-      <td> Moscow, Russia </td>
-      <td> 19 April 2018 </td>
-      <td> 19 April 2018 </td>
-      <td> Find out how to apply AI technologies to improve: sales; production; marketing; customer service. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/big-data-innovation-summit-san-francisco"> Big Data Innovation Summit </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 19 April 2018 </td>
-      <td> 20 April 2018 </td>
-      <td> Cultivate the Data, Yield the Profit </td>
-    </tr>
-    <tr>
-      <td> <a href="http://edw2017.dataversity.net/"> Enterprise Data World (EDW) </a> </td>
-      <td> San Diego, USA </td>
-      <td> 22 April 2018 </td>
-      <td> 27 April 2018 </td>
-      <td> What to Expect at EDW 2017: Accelerating Self Service BI; Advanced Data Architectures for Big Data, IoT and the Cloud; Agile Analytic Operations; Architecting a Big Data Platform; Blockchain Impact on Enterprise Data Management; Building a Master Data Ontology; Building the Business Glossary; Building the Enterprise Knowledge Graph; Cross Functional Data Governance Program; Current State of NoSQL Databases; Data Catalogs; Data Curation; Data Glossary as a Service; Data Governance Architecture; Data Governance for European Union GDPR; Data Integration Hubs etc. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://rpanordics.iqpc.co.uk/"> RPA &amp; AI Summit </a> </td>
-      <td> Copenhagen, Denmark </td>
-      <td> 23 April 2018 </td>
-      <td> 25 April 2018 </td>
-      <td> Across the Nordics, organisations are ramping up robotic process automation, and looking to leverage it beyond the breakeven point, creating tangible returns. But with this new technology comes a complex set of questions and no guidebook for success. At Intelligent Automation Nordics you will arm yourself with this knowledge to achieve greater productivity, quality, customer experience and cost savings for the business. </td>
+      <td> <a href="https://theinnovationenterprise.com/summits/sports-analytics-innovation-summit-london-2018"> Sports Analytics Innovation Summit </a> </td>
+      <td> London, UK </td>
+      <td> 22 March 2018 </td>
+      <td> 22 March 2018 </td>
+      <td> Push the Boundaries with Data. The Sports Analytics Innovation Summit provides a unique opportunity for sports professionals to gain a thorough understanding of this groundbreaking discipline, which has a powerful influence in all areas of high performance sport. </td>
     </tr>
     
   </tbody>
