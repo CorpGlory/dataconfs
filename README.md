@@ -108,75 +108,74 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/modern-data-management-summit-san-francisco"> Modern Data Management Summit </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 26 February 2018 </td>
-      <td> 27 February 2018 </td>
-      <td> Covering the hottest topics within master data management, big data analytics, data science and business facing data-driven applications, senior level executives and hands-on practitioners can come together to obtain real action points and useful connections to better support their business goals. </td>
+      <td> <a href="https://www.forwardleading.co.uk/meetings/big-data-ai-leaders-sydney-2018"> Big Data &amp; AI Leaders Summit </a> </td>
+      <td> Sydney, Australia </td>
+      <td> 26 April 2018 </td>
+      <td> 27 April 2018 </td>
+      <td> Here you can learn from the AI technology forerunners and knowledge share with companies who are leading the evolution of big data in their daily operations and put your self on the forefront of the latest industry discussions. The Big Data &amp; AI Leaders Summit will offer an in-depth overview of future trends in the artificial intelligence landscape and real-world big data user cases to enhance your understanding what is the future of Big Data and how Artificial Intelligence is impacting your industry and create opportunities for new growth. </td>
     </tr>
     <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/digital-marketing-innovation-summit-new-york-2018"> Digital Marketing Innovation Summit NY </a> </td>
+      <td> <a href="https://conferences.oreilly.com/artificial-intelligence/ai-ny"> Artificial Intelligence Conference New York </a> </td>
       <td> New York, USA </td>
-      <td> 27 February 2018 </td>
-      <td> 28 February 2018 </td>
-      <td> The Digital Marketing Innovation Summit brings together senior digital leaders across the country and around the world for networking and thought leadership. </td>
+      <td> 29 April 2018 </td>
+      <td> 2 May 2018 </td>
+      <td> The Artificial Intelligence Conference delivers an unsurpassed depth and breadth in technical content—with a laser-sharp focus on the most important AI developments for business. </td>
     </tr>
     <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/business-analytics-innovation-summit-las-vegas-2018"> Business Analytics Innovation Summit Las Vegas </a> </td>
+      <td> <a href="http://www.iclr.cc/doku.php?id=iclr2018:main"> ICLR 2018 </a> </td>
+      <td> Vancouver, Canada </td>
+      <td> 30 April 2018 </td>
+      <td> 3 May 2018 </td>
+      <td> The performance of machine learning methods is heavily dependent on the choice of data representation (or features) on which they are applied. The rapidly developing field of deep learning is concerned with questions surrounding how we can best learn meaningful and useful representations of data. We take a broad view of the field and include topics such as feature learning, metric learning, compositional modeling, structured prediction, reinforcement learning, and issues regarding large-scale learning and non-convex optimization. The range of domains to which these techniques apply is also very broad, from vision to speech recognition, text understanding, gaming, music, etc. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://collisionconf.com/talk-robot"> TalkRobot </a> </td>
+      <td> New Orleans, USA </td>
+      <td> 30 April 2018 </td>
+      <td> 3 May 2018 </td>
+      <td> TalkRobot is the world’s leading AI and robotics conference, gathering experts in artificial intelligence, robotics and hardware. Join thousands of leading companies, startups, investors, engineers, roboticists and researchers in New Orleans. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.f8.com/"> F8 — Facebook Developer Conference </a> </td>
+      <td> San Diego, USA </td>
+      <td> 1 May 2018 </td>
+      <td> 2 May 2018 </td>
+      <td> Sign up now to receive exclusive updates on how to register and what you&#39;ll see at F8. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://odsc.com/boston"> ODSC east </a> </td>
+      <td> Boston, USA </td>
+      <td> 1 May 2018 </td>
+      <td> 4 May 2018 </td>
+      <td> Accelerate your data science knowledge, training, and network. All in one event. ODSC West 2017 is one of the largest applied data science conferences in the world. Our speakers include some of the core contributors to many open source tools, libraries, and languages. Attend ODSC West 2017 and learn the latest AI &amp; data science topics, tools, and languages from some of the best and brightest minds in the field. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/business-analytics-innovation-summit-chicago-2018"> Business Analytics Innovation Summit Chicago </a> </td>
+      <td> Chicago, USA </td>
+      <td> 2 May 2018 </td>
+      <td> 3 May 2018 </td>
+      <td> The Business Analytics Innovation Summit provides a platform to share unique insight into the innovations that are driving success in the worlds leading organizations. And now, with the addition of the Marketing Analytics track, you have the opportunity to engage with an even wider scope of speakers and ideas! </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.thedatascienceconference.com"> Data science conf </a> </td>
+      <td> Chicago, USA </td>
+      <td> 3 May 2018 </td>
+      <td> 4 May 2018 </td>
+      <td> This conference is for business analytics professionals working in data science, big data, data mining, machine learning, artificial intelligence, or predictive modeling who want to attend an event without being prospected by other attendees. Our unique core philosophy is simply to provide a vendor-free, sponsor-free, and recruiter-free conference for professional data scientists. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theaicongressvegas.com/"> AI Congress Vegas </a> </td>
       <td> Las Vegas, USA </td>
-      <td> 7 March 2018 </td>
-      <td> 8 March 2018 </td>
-      <td> The Business Analytics Innovation Summit provides a platform to share unique insight into the innovations that are driving success in the worlds leading organizations. </td>
+      <td> 3 May 2018 </td>
+      <td> 4 May 2018 </td>
+      <td> AI Congress Vegas 2018 will bring together hundreds of leading enterprises from across America to look at how Artificial Intelligence and Machine Learning is changing how we do business. The event will provide high level presentations, real life examples and hands on advice from business leaders of America&#39;s largest companies, discussing how they are adapting and benefiting from the advances of AI. </td>
     </tr>
     <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/big-data-innovation-summit-las-vegas-2018"> Big Data Innovation Summit Las Vegas </a> </td>
-      <td> Las Vegas, USA </td>
-      <td> 7 March 2018 </td>
-      <td> 8 March 2018 </td>
-      <td> Our Big Data Innovation Summit returns to the big lights of Las Vegas with internationally renowned speakers and world-class delegates in attendance. This summit boasts some of Big Data&#39;s most influential individuals performing presentations, running interactive workshops and offering expert insight. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/digital-marketing-innovation-summit-melbourne-2018"> Digital Marketing Innovation Summit Melbourne </a> </td>
-      <td> Melbourne, Australia </td>
-      <td> 15 March 2018 </td>
-      <td> 16 March 2018 </td>
-      <td> 25+ Industry Speakers &amp; 100+ delegates, Digital Marketing Innovation is the most exclusive gathering of Australia&#39;s leaders in digital marketing and digital media. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.dwbisummit.com/?lang=en"> DATA WAREHOUSING &amp; BUSINESS INTELLIGENCE SUMMIT
- </a> </td>
-      <td> Utrecht, Netherlands </td>
-      <td> 20 March 2018 </td>
-      <td> 21 March 2018 </td>
-      <td> The two day DW&amp;BI Summit is geared to for IT Executives, IT Management and Architects, business intelligence and data warehousing professionals who wish to take a detailed and practical look at the latest developments in Data Warehousing and Business Intelligence. The following professionals should attend:IT executives and managers; Sponsors of BI and DW programs; Business technology managers; BI/DW project managers; Data warehousing architects; Business intelligence practitioners; Business analysts; Data scientists; Technology architects; Data architects and data modelers; Project and program managers; Data integrators; Developers of BI and DW systems; Business and IT consultants. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/chief-marketing-officer-summit-san-francisco-2018"> Chief Marketing Officer Summit </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 20 March 2018 </td>
-      <td> 21 March 2018 </td>
-      <td> The Chief Marketing Officer Summit will equip you with progressive strategies to enhance your marketing leadership in the digital age </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/big-data-innovation-summit-london-2018"> Big Data Innovation Summit London </a> </td>
-      <td> London, UK </td>
-      <td> 21 March 2018 </td>
-      <td> 22 March 2018 </td>
-      <td> Returning to London this year is The Big Data Innovation Summit. Bringing together a number of market leading professionals for an exciting agenda, packed full of presentations, workshops, training sessions &amp; panel discussions. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/predictive-analytics-innovation-summit-london-2018"> Predictive Analytics Innovation Summit </a> </td>
-      <td> London, UK </td>
-      <td> 21 March 2018 </td>
-      <td> 22 March 2018 </td>
-      <td> Predictive Analytics is now a crucial part of business strategy. With the right approach, businesses can use AI-based predictive technologies to forecast a range of outcomes; the behaviour of customers, markets, price trends, staff retention, marketing campaign performance, fraud detection and supply chain management. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/sports-analytics-innovation-summit-london-2018"> Sports Analytics Innovation Summit </a> </td>
-      <td> London, UK </td>
-      <td> 22 March 2018 </td>
-      <td> 22 March 2018 </td>
-      <td> Push the Boundaries with Data. The Sports Analytics Innovation Summit provides a unique opportunity for sports professionals to gain a thorough understanding of this groundbreaking discipline, which has a powerful influence in all areas of high performance sport. </td>
+      <td> <a href="http://www.siam.org/meetings/sdm18/"> SIAM International Conference on Data Mining (SDM18) </a> </td>
+      <td> San Diego, USA </td>
+      <td> 3 May 2018 </td>
+      <td> 5 May 2018 </td>
+      <td> As a professional society, SIAM is committed to providing an inclusive climate that encourages the open expression and exchange of ideas, that is free from all forms of discrimination, harassment, and retaliation, and that is welcoming and comfortable to all members and to those who participate in its activities. In pursuit of that commitment, SIAM is dedicated to the philosophy of equality of opportunity and treatment for all participants regardless of gender, gender identity or expression, sexual orientation, race, color, national or ethnic origin, religion or religious belief, age, marital status, disabilities, veteran status, field of expertise, or any other reason not related to scientific merit. This philosophy extends from SIAM conferences, to its publications, and to its governing structures and bodies. We expect all members of SIAM and participants in SIAM activities to work towards this commitment. </td>
     </tr>
     
   </tbody>
