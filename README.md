@@ -108,6 +108,13 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
+      <td> <a href="http://smartvoicesummit.com"> Smart Voice Summit </a> </td>
+      <td> Paris, France </td>
+      <td> 1 February 2018 </td>
+      <td> 2 February 2018 </td>
+      <td> Voice represents the next major interface for communication between humans and machines, and a major new client touchpoint for companies. For two days we will bring together the entire voice community for a quality and content driven event, in order to discuss current and future trends, developments and challenges within the industry. </td>
+    </tr>
+    <tr>
       <td> <a href="https://www.forwardleading.co.uk/meetings/big-data-ai-leaders-sydney-2018"> Big Data &amp; AI Leaders Summit </a> </td>
       <td> Sydney, Australia </td>
       <td> 26 April 2018 </td>
@@ -169,13 +176,6 @@ A list of conferences connected with data worldwide.
       <td> 3 May 2018 </td>
       <td> 4 May 2018 </td>
       <td> AI Congress Vegas 2018 will bring together hundreds of leading enterprises from across America to look at how Artificial Intelligence and Machine Learning is changing how we do business. The event will provide high level presentations, real life examples and hands on advice from business leaders of America&#39;s largest companies, discussing how they are adapting and benefiting from the advances of AI. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://www.siam.org/meetings/sdm18/"> SIAM International Conference on Data Mining (SDM18) </a> </td>
-      <td> San Diego, USA </td>
-      <td> 3 May 2018 </td>
-      <td> 5 May 2018 </td>
-      <td> As a professional society, SIAM is committed to providing an inclusive climate that encourages the open expression and exchange of ideas, that is free from all forms of discrimination, harassment, and retaliation, and that is welcoming and comfortable to all members and to those who participate in its activities. In pursuit of that commitment, SIAM is dedicated to the philosophy of equality of opportunity and treatment for all participants regardless of gender, gender identity or expression, sexual orientation, race, color, national or ethnic origin, religion or religious belief, age, marital status, disabilities, veteran status, field of expertise, or any other reason not related to scientific merit. This philosophy extends from SIAM conferences, to its publications, and to its governing structures and bodies. We expect all members of SIAM and participants in SIAM activities to work towards this commitment. </td>
     </tr>
     
   </tbody>
