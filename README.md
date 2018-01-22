@@ -107,6 +107,27 @@ A list of conferences connected with data worldwide.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td> <a href="https://aiconf.tech/"> North Star AI </a> </td>
+      <td> Tallinn, Estonia </td>
+      <td> 8 March 2018 </td>
+      <td> 8 March 2018 </td>
+      <td> North Star AI is a technical hands-on conference focusing on machine learning. We bring together developers, tech leads, data analysts, technical founders and anybody else who wants to learn about technical aspects of AI. North Star AI is all about quality and focus on the exchange of real-life experiences and case studies from practitioner to practitioner. We welcome participants who want to be up to date with the code and move ahead as we are here to learn and network. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.pyimagesearch.com/2018/01/08/pyimageconf-2018-practical-hands-computer-vision-deep-learning-conference/"> PyImageConf 2018 </a> </td>
+      <td> San Francisco, USA </td>
+      <td> 26 August 2018 </td>
+      <td> 28 August 2018 </td>
+      <td> The practical, hands-on computer vision and deep learning conference </td>
+    </tr>
+    <tr>
+      <td> <a href="https://socinfo2018.hse.ru/"> Social Informatics 2018 </a> </td>
+      <td> Saint Petersburg, Russia </td>
+      <td> 25 September 2018 </td>
+      <td> 28 September 2018 </td>
+      <td> SocInfo is an interdisciplinary venue for researchers from Computer Science, Informatics, Social Sciences and Management Sciences to share ideas and opinions, and present original research work on studying the interplay between socially-centric platforms and social phenomena. The ultimate goal of Social Informatics is to create better understanding of socially-centric platforms not just as a technology, but also as a set of social phenomena. </td>
+    </tr>
     
   </tbody>
 </table>
