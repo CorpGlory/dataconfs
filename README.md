@@ -19,13 +19,6 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td> <a href="https://www.re-work.co/events/intro-machine-learning-healthcare-workshop-london-feb-2018"> An Introduction to Machine Learning in Healthcare </a> </td>
-      <td> London, UK </td>
-      <td> 14 February 2018 </td>
-      <td> 14 February 2018 </td>
-      <td> Advance your skills and discover the impact of machine learning on healthcare in a half day training workshop with case studies and key insights </td>
-    </tr>
-    <tr>
       <td> <a href="http://conferences.au.dk/robo-philosophy-2018-at-the-university-of-vienna/"> International Research Conference Robophilosophy </a> </td>
       <td> Vienna, Austria </td>
       <td> 14 February 2018 </td>
@@ -88,6 +81,13 @@ A list of conferences connected with data worldwide.
       <td> 1 March 2018 </td>
       <td> The definitive conference for professionals who use and support SAP data technologies, SAP Cloud platform, business apps, and analytics </td>
     </tr>
+    <tr>
+      <td> <a href="https://ai4businesssummit.com/"> AI 4 Business </a> </td>
+      <td> Lint, Belgium </td>
+      <td> 27 February 2018 </td>
+      <td> 27 February 2018 </td>
+      <td> Technology and more particularly AI is raising the bar for efficiency and personalization in marketing, sales and business. But what is Artificial Intelligence exactly and what does it mean for your business? Discover the use cases of this technology and learn to take advantage of them. Enhance your customer care via chatbots, forecast your sales, deliver on demand campaigns, boost your commerce via virtual assistants, detect fraud, gather big data, and many more. </td>
+    </tr>
     
   </tbody>
 </table>
@@ -108,137 +108,67 @@ A list of conferences connected with data worldwide.
   </thead>
   <tbody>
     <tr>
-      <td> <a href="http://sapinsiderevents.wispubs.com/2018/Las-Vegas/BI-HANA-Admin/HANA"> BI &amp; HANA 2018 </a> </td>
-      <td> Las Vegas, USA </td>
-      <td> 26 February 2018 </td>
-      <td> 1 March 2018 </td>
-      <td> The definitive conference for professionals who use and support SAP data technologies, SAP Cloud platform, business apps, and analytics </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.domo.com/domopalooza"> Domopalooza 2018 </a> </td>
-      <td> Salt Lake City, USA </td>
-      <td> 13 March 2018 </td>
-      <td> 16 March 2018 </td>
-      <td> Domopalooza 2018 is so much more than a user conference. The stage will be filled with inspirational luminaries, companies who are doing things with data they never thought possible, and the hottest entertainment around. Be inspired, educated, and empowered to take your entire business into the future. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.witinc.com/great-lakes-bi-big-data-summit/"> Great Lakes Business Intelligence &amp; Big Data Summit </a> </td>
-      <td> Detroit, USA </td>
-      <td> 15 March 2018 </td>
-      <td> 15 March 2018 </td>
-      <td> The Premier Business Analytics Event In The Great Lakes Region. Attendees will learn about the latest BI and big data software, best practices, and success stories to help them capitalize on big data, business intelligence, data management, machine learning, analytics, and data visualization opportunities. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/data-visualization-summit-san-francisco-2018"> Data Visualization Summit San Francisco </a> </td>
-      <td> San Francisco, USA </td>
-      <td> 12 April 2018 </td>
-      <td> 13 April 2018 </td>
-      <td> With 20+ Industry Speakers &amp; 150+ delegates, Data Visualization brings together the world&#39;s leaders in the industry. Running concurrently with our Big Data Innovation Summit, networking opportunities are second to none. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://www.qlikqonnections.com/"> Qonnections 2018  </a> </td>
-      <td> Orlando, USA </td>
-      <td> 23 April 2018 </td>
-      <td> 26 April 2018 </td>
-      <td> Experience innovative uses of technology in conjunction with the Qlik platform and get a glimpse into how emerging technologies will help deliver the needs of the “Workspace of the Future”. Participants can interact with innovative and immersive experiences in real time. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://events.forrester.com/ehome/index.php?eventid=275891&amp;"> Digital Transformation 2018 </a> </td>
-      <td> Chicago, USA </td>
-      <td> 8 May 2018 </td>
-      <td> 9 May 2018 </td>
-      <td> Digital transformation now dominates many C-suite and boardroom agendas. But it remains unclear what “digital transformation” means. Most definitions are shallow, even while expectations for success are optimistic. Faced with these disparate viewpoints and demands, CIOs, CTOs, and CDOs struggle to define cohesive digital strategies — resulting in (at best) tinkering at the margins or (at worst) chaos and inefficiency. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://events.forrester.com/ehome/index.php?eventid=275892&amp;"> Digital Transformation India 2018 </a> </td>
-      <td> Mumbai, India </td>
-      <td> 29 May 2018 </td>
-      <td> 29 May 2018 </td>
-      <td> Digital transformation now dominates many C-suite and boardroom agendas. But it remains unclear what “digital transformation” means. Most definitions are shallow, even while expectations for success are optimistic. Faced with these disparate viewpoints and demands, CIOs, CTOs, and CDOs struggle to define cohesive digital strategies — resulting in (at best) tinkering at the margins or (at worst) chaos and inefficiency. </td>
-    </tr>
-    <tr>
-      <td> <a href="http://eyeofestival.com/"> Eyeo festival </a> </td>
-      <td> Minneapolis, USA </td>
-      <td> 4 June 2018 </td>
-      <td> 7 June 2018 </td>
-      <td> Eyeo brings together a community of people drawn to the intersection of art, data and creative technology. Join us for 4 days of enthralling talks, unique workshops and thought provoking interactions lead by passionate thinkers and makers. You’ll love it. (And it’ll be better with you there.) Converge to Inspire. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://conference.competitive-intelligence.com/"> International Competitive and Market Intelligence Conference </a> </td>
-      <td> Bad Nauheim, Germany </td>
-      <td> 5 June 2018 </td>
-      <td> 8 June 2018 </td>
-      <td> The 10th of our International Competitive and Market Intelligence Conference not only marks a 10-year success story, it is also a testament to excellence in CI/MI. We feel it is our responsibility to provide world-class keynotes, inspiring impulse speeches, best practice lessons, and presentations of innovative scientific research in Competitive and Market Intelligence. You might ask of our success. The answer is quite simple: Quality in everything we do! We strive for excellent presentations, innovative session formats, peer-reviewed tracks, and certified processes (ISO 29990). We work hard to maintain our position as THE Center of Excellence in Competitive and Market Intelligence. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://events.forrester.com/ehome/index.php?eventid=273738&amp;"> Digital Transformation Europe 2018 </a> </td>
-      <td> London, UK </td>
-      <td> 14 June 2018 </td>
-      <td> 15 June 2018 </td>
-      <td> Digital transformation now dominates many C-suite and boardroom agendas. But it remains unclear what “digital transformation” means. Most definitions are shallow, even while expectations for success are optimistic. Faced with these disparate viewpoints and demands, CIOs, CTOs, and CDOs struggle to define cohesive digital strategies — resulting in (at best) tinkering at the margins or (at worst) chaos and inefficiency. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://dataworkssummit.com/san-jose-2018/"> DataWorks Summit </a> </td>
-      <td> San Jose, USA </td>
-      <td> 17 June 2018 </td>
-      <td> 21 June 2018 </td>
+      <td> <a href="https://dataworkssummit.com/berlin-2018/"> DataWorks Summit Berlin </a> </td>
+      <td> Berlin, Germany </td>
+      <td> 16 April 2018 </td>
+      <td> 19 April 2018 </td>
       <td> Leading enterprises are using advanced analytics, data science, and artificial intelligence to transform the way they deliver customer and product experiences—at scale. Discover how they’re doing it. Learn about the latest developments. And network with peers and pioneers to learn how to apply open source technology to accelerate your digital transformation. </td>
     </tr>
     <tr>
-      <td> <a href="https://realbusinessintelligence.com/"> Real Business Intelligence </a> </td>
-      <td> Cambridge, USA </td>
-      <td> 27 June 2018 </td>
-      <td> 28 June 2018 </td>
-      <td> Explore the trends impacting your information management, analytics and business intelligence strategies. Learn to think about the future and turn it into real strategic plans and specific actions. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://events.forrester.com/ehome/index.php?eventid=301574&amp;"> New Tech &amp; Innovation 2018 </a> </td>
-      <td> Boston, USA </td>
-      <td> 18 July 2018 </td>
-      <td> 19 July 2018 </td>
-      <td> We will focus on three critical challenges for technology and innovation leaders: Understanding the increasing complexity and velocity of emerging digital technologies, as well as the opportunities and challenges they represent to existing business models and operating norms; Mapping the proliferation of innovative and disruptive start-up and early stage companies powered by these emerging technologies; and Best practices among large enterprises in the adoption of emerging technologies, as well as collaboration with early stage innovators. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/big-data-analytics-innovation-summit-sydney-2018"> Big Data &amp; Analytics Innovation Summit </a> </td>
-      <td> Sydney, Australia </td>
-      <td> 3 September 2018 </td>
-      <td> 4 September 2018 </td>
-      <td> Learn from industry leaders in a fast-growing analytics community as we hear innovative case studies from the most senior-level and ground-breaking executives in analytics &amp; data science. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/data-visualization-summit-boston-2018"> Data Visualization Summit Boston </a> </td>
-      <td> Boston, USA </td>
-      <td> 11 September 2018 </td>
-      <td> 12 September 2018 </td>
-      <td> Data Viz 2017 is a two-day event focused exclusively around data design and analysis. Bringing together over 200 data enthusiasts who are rethinking how we interact with data, this is the place to improve your data literacy and connect with the best. </td>
-    </tr>
-    <tr>
-      <td> <a href="https://tc17.tableau.com/tc18"> Tableau Conference 2018 </a> </td>
+      <td> <a href="https://collisionconf.com/"> Collision </a> </td>
       <td> New Orleans, USA </td>
-      <td> 22 October 2018 </td>
-      <td> 25 October 2018 </td>
-      <td> Tableau Conference is one big data lovefest for our customers, partners, and key stakeholders. It is the best opportunity for you to meet thousands of passionate, like-minded Tableau users, experts, and partners from all over the world. You’ll have unparalleled opportunities to learn, network, and get inspired – plus the fun of celebrating a shared love of data. </td>
+      <td> 30 April 2018 </td>
+      <td> 3 May 2018 </td>
+      <td> Collision is “America’s fastest growing tech conference” created by the team behind Web Summit. In three years, Collision has grown to almost 20,000 attendees from 119 countries. Attendees include CEOs of both the world’s fastest growing startups and the world’s largest companies, alongside leading investors and media. </td>
     </tr>
     <tr>
-      <td> <a href="https://theinnovationenterprise.com/summits/business-intelligence-innovation-summit-chicago-2018"> Business Intelligence Innovation Summit </a> </td>
-      <td> Chicago, USA </td>
-      <td> 24 October 2018 </td>
-      <td> 25 October 2018 </td>
-      <td> Do you have a passion for translating raw data to actionable insights? Are you looking for ways to advance the power of these insights to help make good business decisions great? Is your company looking for ways to bridge the gap between analytics and outcomes? Then the Business Intelligence Innovation Summit is a must-attend! </td>
+      <td> <a href="https://www.predictiveanalyticsworld.com/financial/2018/"> Predictive Analytics World Financial Las Vegas </a> </td>
+      <td> Las Vegas, USA </td>
+      <td> 3 June 2018 </td>
+      <td> 7 June 2018 </td>
+      <td> Minimize risk &amp; multiply returns with machine learning </td>
     </tr>
     <tr>
-      <td> <a href="http://www.whitehallmedia.co.uk/bdaq4/"> Big Data Analytics </a> </td>
-      <td> London, UK </td>
-      <td> 27 November 2018 </td>
-      <td> 27 November 2018 </td>
-      <td> we showcase Big Data use cases and techniques that drive the greatest business value. With an emphasis on real-life implementation of Big Data technologies, this practical business forum will provide bold vision from leading innovators across the data-driven spectrum. Join hundreds of C-suite executives, business strategists, data scientists and analytics professionals to leverage the opportunity to harness your data for competitive advantage. </td>
+      <td> <a href="https://www.predictiveanalyticsworld.com/health/2018/"> Predictive Analytics World Healthcare Las Vegas </a> </td>
+      <td> Las Vegas, USA </td>
+      <td> 3 June 2018 </td>
+      <td> 7 June 2018 </td>
+      <td> The PAW Healthcare program will feature sessions and case studies across Healthcare Business Operations and Clinical applications so you can witness how predictive analytics is employed at leading enterprises and resulting in improved outcomes, lower costs, and higher patient satisfaction. </td>
     </tr>
     <tr>
-      <td> <a href="https://events.forrester.com/ehome/index.php?eventid=291954"> Data Strategy &amp; Insights 2018 </a> </td>
+      <td> <a href="https://www.predictiveanalyticsworld.com/manufacturing/2018/"> Predictive Analytics World Manufacturing Las Vegas </a> </td>
+      <td> Las Vegas, USA </td>
+      <td> 3 June 2018 </td>
+      <td> 7 June 2018 </td>
+      <td> Predictive Analytics World for Manufacturing focuses on real-world examples of deployed predictive analytics. Attend and hear how some of the world’s largest and most forward-thinking manufacturers are tapping the powering predictive modeling to improve business outcomes. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.deeplearningworld.com/"> Deep Learning World </a> </td>
+      <td> Las Vegas, USA </td>
+      <td> 3 June 2018 </td>
+      <td> 7 June 2018 </td>
+      <td> Deep Learning World is the premier conference covering the commercial deployment of deep learning. The event’s mission is to foster breakthroughs in the value-driven operationalization of established deep learning methods. DLW is co-located alongside four established industry Predictive Analytics World events — PAW Business, PAW Financial, PAW Healthcare, and PAW Manufacturing — which will compose PAW’s single “mega” event for 2018. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://disneydataconference.com/"> Disney Data &amp; Analytics Conference 2018 </a> </td>
       <td> Orlando, USA </td>
-      <td> 4 December 2018 </td>
-      <td> 5 December 2018 </td>
-      <td> A rolling tide of digital innovation, including AI, IoT and other emerging technologies, promises to radically reinvent longstanding strategic and operational assumptions for many enterprises. Together, these new tools will animate the creation of a new entity — the insights-driven enterprise. And much is at stake: Forrester predicts that this new breed of insights-driven business will steal $1.2 billion in revenue from their competition by 2020. </td>
+      <td> 28 August 2018 </td>
+      <td> 29 August 2018 </td>
+      <td> The Disney Data &amp; Analytics Conference 2018 will bring together over 1,300 executives, managers, and analysts representing over 200 companies and universities, plus all segments of The Walt Disney Company, including Parks &amp; Resorts, Media Networks, Studio Entertainment, and Consumer Products &amp; Interactive Media. Attendees represent an array of analytic disciplines including Revenue Management, Pricing, Forecasting, Marketing Analytics, CRM, Research, Technology, Data Management, and Decision Science. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://www.predictiveanalyticsworld.com/gov/2018/"> Predictive Analytics World Government </a> </td>
+      <td> Washington, USA </td>
+      <td> September.2018 </td>
+      <td> September.2018 </td>
+      <td> Predictive Analytics World for Government (PAWGOV) is a practically-focused conference that highlights case studies of how government agencies are currently using data analytics to solve real world problems. </td>
+    </tr>
+    <tr>
+      <td> <a href="https://theinnovationenterprise.com/summits/big-data-analytics-innovation-summit-shanghai-2018"> Big Data &amp; Analytics Innovation Summit Shanghai </a> </td>
+      <td> Shanghai, China </td>
+      <td> 5 September 2018 </td>
+      <td> 6 September 2018 </td>
+      <td> Embed Data to Exploit Business Potential </td>
     </tr>
     
   </tbody>
