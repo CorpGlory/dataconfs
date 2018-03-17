@@ -116,7 +116,7 @@ A list of conferences connected with data worldwide.
       <td> OPENVIS CONF is a two-day, single track conference centered around the practice of visualizing data with open source tools on the web. In 2018, we are following the main program by educational, hands-on workshops. Our conference program merges the latest in visualization research, technology, and practice, constructed by an open-call submission and committee review process. </td>
     </tr>
     <tr>
-      <td> <a href="https://carto.com/locations-event/madrid/">  </a> </td>
+      <td> <a href="https://carto.com/locations-event/madrid/"> CARTO Locations </a> </td>
       <td> Madrid, Spain </td>
       <td> 19 April 2018 </td>
       <td> 20 April 2018 </td>
