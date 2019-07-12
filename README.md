@@ -150,12 +150,10 @@ Tip: click `watch` button to get notifications about new confs.
 * Add a comment to the [doc](https://docs.google.com/spreadsheets/d/11IjAII5_nvsUPc_pJKhRgfBcFY0PyswiTqyr4hE_JSg/edit#gid=0)
 * Leave a message on [Gitter](https://gitter.im/dataconfs/Lobby)
 
-## Connect with folks
-
-Hey, lets gather on [Gitter](https://gitter.im/dataconfs/Lobby) or [Slack](http://corpglory.com/join) 
-
-Our Twitter: https://twitter.com/CorpGlory
-
 ## Your stuff on this data
 
 Ideas of data-products based on this list? Maybe some infographics? Add links here.
+
+
+## About CorpGlory Inc.
+The project developed by [CorpGlory Inc.](https://corpglory.com/), a company which provides high quality software development, data visualization, Grafana and monitoring consulting.
